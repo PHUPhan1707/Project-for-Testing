@@ -7,6 +7,8 @@ updated_at: 2025-10-07T15:03:02Z
 
 # Raspberry Pi
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360034379693-Raspberry-Pi
+
 ### In this article, we'll break down how to get OptiSigns running on a Rapsberry Pi device.
 
 - [Two Methods to Get OptiSigns Running on a Raspberry Pi](#Methods)

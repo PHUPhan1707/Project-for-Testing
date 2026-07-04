@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:42:07Z
 
 # How to display Google Slide in Portrait Mode
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360019710493-How-to-display-Google-Slide-in-Portrait-Mode
+
 You can set up Google Slides to present properly in Portrait mode by setting the right page dimensions.  
 [Here's an example](https://docs.google.com/presentation/d/1k2Er26_MJhwrYEMcwiq766OCTMAFj4V2fqb9kP3tdn8/edit?usp=sharing).
 

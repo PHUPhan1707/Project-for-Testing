@@ -7,6 +7,8 @@ updated_at: 2025-09-05T14:35:18Z
 
 # How to use YouTube Live with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500002131621-How-to-use-YouTube-Live-with-OptiSigns
+
 There are 2 ways to use YouTube Live with OptiSigns.
 
  

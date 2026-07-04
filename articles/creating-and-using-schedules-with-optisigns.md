@@ -7,6 +7,8 @@ updated_at: 2026-03-31T22:14:33Z
 
 # Creating and Using Schedules with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360016981853-Creating-and-Using-Schedules-with-OptiSigns
+
 ### OptiSigns offers flexible and powerful scheduling options, allowing you to schedule your content on a calendar. Schedule events to recur daily, on specific days and times, or any way you wish.
 
 **In this article, we will cover:**

@@ -7,6 +7,8 @@ updated_at: 2025-08-29T18:50:02Z
 
 # Stretch your images, document - Stretch vs Fit vs Zoom your content
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360026610194-Stretch-your-images-document-Stretch-vs-Fit-vs-Zoom-your-content
+
 In general, we recommend you to upload images, document that will fit the size of your screens.  
 Most likely your big screens TV will have resolution of: 1920 x 1080 pixels (Full HD) or 3840 x 2160 pixels (4K).
 

@@ -7,6 +7,8 @@ updated_at: 2025-08-29T21:54:59Z
 
 # How to use World Clock App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360042450514-How-to-use-World-Clock-App
+
 World Clock App allow you to show up to 6 clocks of different cities, locations on your screen.  
 Below is an example:
 

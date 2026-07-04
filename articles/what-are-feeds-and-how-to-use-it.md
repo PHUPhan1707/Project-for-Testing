@@ -7,6 +7,8 @@ updated_at: 2025-08-28T18:46:57Z
 
 # What Are Feeds and How to Use It
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/24338756617747-What-Are-Feeds-and-How-to-Use-It
+
 ## Want to bring your screens to life with curated content across a variety of topics? Let's get to know OptiSigns Feeds!
 
 | Use Case |

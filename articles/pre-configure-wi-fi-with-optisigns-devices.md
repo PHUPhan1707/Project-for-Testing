@@ -7,6 +7,8 @@ updated_at: 2026-06-11T17:53:34Z
 
 # Pre-configure Wi-Fi with OptiSigns devices
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360055549854-Pre-configure-Wi-Fi-with-OptiSigns-devices
+
 When ordering [OptiSticks via the OptiSigns portal](https://app.optisigns.com/app/s/order-device), you can put in Wi\-Fi information \& credentials and the device will be configured with those Wi\-Fi details before shipped out.
 
 This is very useful and will save you time in deployment. You can also provide a name for the device here, which will help you figure out which device goes where.

@@ -7,6 +7,8 @@ updated_at: 2025-09-04T14:39:07Z
 
 # Navigating Through OptiSigns' Template Library
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/20425113117459-Navigating-Through-OptiSigns-Template-Library
+
 ### Want to display captivating content? Our exclusive, extensive, and ever\-growing template library covering various industries is here to optimize your screens in minutes!
 
 | Use Case |

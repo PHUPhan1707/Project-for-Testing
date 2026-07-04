@@ -7,6 +7,8 @@ updated_at: 2025-12-12T20:56:01Z
 
 # How to use Instagram Business App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360051495193-How-to-use-Instagram-Business-App
+
 | **NOTE** |
 | --- |
 | In order to use Instagram on OptiSigns, you cannot use any Personal Accounts. They must be Business Accounts. This is a policy of Meta. |

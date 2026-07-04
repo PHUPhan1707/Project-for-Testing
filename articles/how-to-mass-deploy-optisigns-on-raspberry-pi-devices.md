@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:34:40Z
 
 # How to mass deploy OptiSigns on Raspberry Pi devices
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360063098753-How-to-mass-deploy-OptiSigns-on-Raspberry-Pi-devices
+
 Do you have already a large number of Raspberry Pi devices and would like to run OptiSigns on them?
 
 With the Advanced Device Management \& Mass Preconfigure feature you will be able to:

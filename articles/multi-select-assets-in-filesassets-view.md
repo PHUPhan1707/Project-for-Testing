@@ -7,6 +7,8 @@ updated_at: 2025-08-29T19:08:26Z
 
 # Multi-select assets in Files/Assets view
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500006056101-Multi-select-assets-in-Files-Assets-view
+
 There are a few ways to can select multiple assets at a time:
 
  

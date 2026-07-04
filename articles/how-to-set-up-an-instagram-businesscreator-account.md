@@ -7,6 +7,8 @@ updated_at: 2025-08-28T18:43:19Z
 
 # How to Set up an Instagram Business/Creator account
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360051745633-How-to-Set-up-an-Instagram-Business-Creator-account
+
 | **NOTE** |
 | --- |
 | In order to use Instagram on OptiSigns, you cannot use any Personal Accounts. They must be Business Accounts. This is a policy of Meta. |

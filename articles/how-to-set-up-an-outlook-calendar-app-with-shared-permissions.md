@@ -7,6 +7,8 @@ updated_at: 2025-10-17T16:01:18Z
 
 # How to Set Up an Outlook Calendar App with Shared Permissions
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/45619214182803-How-to-Set-Up-an-Outlook-Calendar-App-with-Shared-Permissions
+
 ### In this article, we'll go over how to set up Shared Permissions to show Room or Equipment Resources on an Outlook Calendar with OptiSigns.
 
 - [What You'll Need](#WhatYouNeed)

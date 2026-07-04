@@ -7,6 +7,8 @@ updated_at: 2025-08-29T19:30:31Z
 
 # How to use MRSS feeds with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4409448788499-How-to-use-MRSS-feeds-with-OptiSigns
+
 MRSS feeds is a popular way for organization to push out multimedia information. Whether you have a well\-know MRSS feeds or one from your local community or company, you can put the feed on big screens TV with OptiSigns.
 
 This article will guide you through how to create and use MRSS app with OptiSigns.

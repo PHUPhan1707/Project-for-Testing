@@ -7,6 +7,8 @@ updated_at: 2025-09-04T16:16:13Z
 
 # How to use Facebook Recommendations App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360051317774-How-to-use-Facebook-Recommendations-App
+
 This article will guide you through how to create and use Facebook Recommendation App.
 
 You can leverage Facebook Recommendations you received on your Facebook pages to display on your Digital Signs, this can help to engage your customers, improve your credibility and encourage customers to post more Recommendations, Reviews for you. 

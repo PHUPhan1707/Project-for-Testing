@@ -7,6 +7,8 @@ updated_at: 2025-09-02T18:32:51Z
 
 # How to use Scrolling Website App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360056356414-How-to-use-Scrolling-Website-App
+
 Sometimes you have requirement to show a certain website and have it scroll or zoom in a certain way.  
 Scrolling Website App is the solution for that, it will allow you to:
 

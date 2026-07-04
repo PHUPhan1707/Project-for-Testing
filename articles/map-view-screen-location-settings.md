@@ -7,6 +7,8 @@ updated_at: 2025-08-28T19:29:32Z
 
 # Map View & Screen Location settings
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4407068788883-Map-View-Screen-Location-settings
+
 You can view your devices on a map.
 
 This helps to visualize your deployment, and select certain screens based on geo locations to make changes to them.

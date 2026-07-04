@@ -7,6 +7,8 @@ updated_at: 2026-03-30T20:09:57Z
 
 # Shapes and Elements
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/42307234534547-Shapes-and-Elements
+
 ### In this article, we’ll explore all the options for creating and adding Shapes and Elements in Designer.
 
 - [Adding Shapes and Elements](#AddingShapes)

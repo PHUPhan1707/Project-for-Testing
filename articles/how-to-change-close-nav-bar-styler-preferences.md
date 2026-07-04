@@ -7,6 +7,8 @@ updated_at: 2025-08-28T19:27:02Z
 
 # How to Change Close & Nav Bar Styler Preferences
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/28115946505107-How-to-Change-Close-Nav-Bar-Styler-Preferences
+
 When you change your Close \& Nav Bar Styler Preference settings, it will adjust the default options set for your Kiosk Lite and Kiosk Designer Pro.
 
  

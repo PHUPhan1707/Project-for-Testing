@@ -7,6 +7,8 @@ updated_at: 2025-10-10T18:54:38Z
 
 # How to use the ESPN News App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360040991474-How-to-use-the-ESPN-News-App
+
 ### In this article, we'll explain how to use the ESPN News app on OptiSigns.
 
 - [What You'll Need](https://support.optisigns.com/hc/en-us/articles/360041476213#WhatYouNeed)

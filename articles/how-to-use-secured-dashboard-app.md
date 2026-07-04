@@ -7,6 +7,8 @@ updated_at: 2025-09-02T20:28:00Z
 
 # How to use Secured Dashboard App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/19589190970771-How-to-use-Secured-Dashboard-App
+
 Displaying KPIs and reports on the screen is a common use case for enterprise customers, however, companies are using different reporting systems, which makes this a difficult task to accomplish. OptiSigns has delivered a [Web Scripting App](https://support.optisigns.com/hc/en-us/articles/1500012522362) for customers to access their password\-protected reporting systems without coding, it also supports Multi\-Factor Authentication, for details please follow this [article](https://support.optisigns.com/hc/en-us/articles/19145077187859).
 
 Web Scripting App executes the scripts locally on the device, it is the recommended solution for customers to access their reports. However, there are still cases in which customers need another way to execute and display the reports. Below are a few examples. A Secured Dashboard is recommended in these situations. 

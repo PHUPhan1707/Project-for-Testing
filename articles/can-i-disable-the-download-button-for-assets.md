@@ -7,6 +7,8 @@ updated_at: 2025-08-29T16:59:24Z
 
 # Can I Disable the Download Button for Assets?
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360020931734-Can-I-Disable-the-Download-Button-for-Assets
+
 If, for security or other reasons, you want to disable the download button on your assets, as shown below, you can do this in your account settings.
 
 ![photo of asset and download button in account](https://support.optisigns.com/hc/article_attachments/34840578455827)

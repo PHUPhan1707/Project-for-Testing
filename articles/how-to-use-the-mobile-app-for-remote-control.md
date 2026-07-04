@@ -7,6 +7,8 @@ updated_at: 2025-09-04T20:14:54Z
 
 # How to Use the Mobile App for Remote Control
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control
+
 OptiSigns Admin Mobile App is a powerful tool that allows you to control your OptiSigns devices directly from your smartphone. We recommend following this guide for device setup, especially if your device is not pre\-configured.
 
 This guide will walk you through the steps to effectively use the app's remote control feature.

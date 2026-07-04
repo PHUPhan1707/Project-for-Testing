@@ -7,6 +7,8 @@ updated_at: 2026-06-08T15:02:21Z
 
 # How to set up SAML 2.0  with OptiSigns and Okta
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4404590815635-How-to-set-up-SAML-2-0-with-OptiSigns-and-Okta
+
 With Pro Plus and Enterprise plans, you can configure SAML 2\.0 with OptiSigns via Okta.
 
 Assuming you already using Okta for identity management. If you have not used Okta, it is the leading identity management platform, you can learn more [here](https://www.okta.com/intro-to-okta/).

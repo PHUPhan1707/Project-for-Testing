@@ -7,6 +7,8 @@ updated_at: 2025-09-04T14:59:16Z
 
 # How to Display Dynamic Event Schedules Using OptiSync
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/33468569218067-How-to-Display-Dynamic-Event-Schedules-Using-OptiSync
+
 ### With OptiSync, you can dynamically map data from sources such as Google Sheets, Microsoft Excel, APIs, and more to display updating event schedules on your screens. In this article, we will walk you through the steps.
 
 - [Examples of Some Event Schedules OptiSync Can Make](#Examples)

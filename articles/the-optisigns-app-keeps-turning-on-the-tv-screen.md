@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:11:52Z
 
 # The OptiSigns app keeps turning on the TV screen
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/15808407287315-The-OptiSigns-app-keeps-turning-on-the-TV-screen
+
 If the OptiSigns app keeps turning on your TV screen, you can follow this article.
 
   

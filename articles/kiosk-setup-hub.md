@@ -7,6 +7,8 @@ updated_at: 2026-03-30T17:22:38Z
 
 # Kiosk Setup Hub
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/44650391786131-Kiosk-Setup-Hub
+
 ### Welcome to the OptiKiosk Setup Help Center.
 
 OptiKiosks make digital signage easy, reliable, and powerful. Each kiosk comes pre\-configured for use with OptiSigns and can be managed from anywhere.

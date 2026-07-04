@@ -7,6 +7,8 @@ updated_at: 2025-08-29T19:27:36Z
 
 # How to use Advanced Website App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/5149077938835-How-to-use-Advanced-Website-App
+
 Sometimes you have requirement to show a certain website and have it scroll or zoom in a certain way.  
 Advanced Website App is the solution for that, it will allow you to:
 

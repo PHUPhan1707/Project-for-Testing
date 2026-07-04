@@ -7,6 +7,8 @@ updated_at: 2025-10-10T19:47:31Z
 
 # How to use the New York Times app
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360045121233-How-to-use-the-New-York-Times-app
+
 ### In this article, we'll explain how to use the Guardian News app on OptiSigns.
 
 - [What You'll Need](https://support.optisigns.com/hc/en-us/articles/360040991534#WhatYouNeed)

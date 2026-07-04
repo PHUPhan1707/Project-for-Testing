@@ -7,6 +7,8 @@ updated_at: 2025-12-12T20:55:05Z
 
 # Difference between Instagram & Instagram Business App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360050728934-Difference-between-Instagram-Instagram-Business-App
+
 | **NOTE** |
 | --- |
 | To set up an Instagram Business account, we recommend following [this article on Instagram's website](https://help.instagram.com/502981923235522). |

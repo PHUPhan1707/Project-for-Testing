@@ -7,6 +7,8 @@ updated_at: 2025-09-04T17:29:50Z
 
 # OptiSigns Side Menu Options
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360056090593-OptiSigns-Side-Menu-Options
+
 - [OptiSigns Devices](#OptiSigns)
 	- [OptiStick Player Side Menu](#AndroidStick)
 - [Other Devices](#Other)

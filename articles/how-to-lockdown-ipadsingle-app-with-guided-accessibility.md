@@ -7,6 +7,8 @@ updated_at: 2026-02-10T16:54:02Z
 
 # How to Lockdown iPad/Single App with Guided Accessibility
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/25273043501587-How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility
+
 This article will guide you on how to activate the kiosk mode on your iPad for a specific application.
 
 This can be particularly beneficial if you intend to use the OptiSigns software as a kiosk device, ensuring that the OptiSigns application remains open and cannot be exited without authorization.

@@ -7,6 +7,8 @@ updated_at: 2026-03-25T21:24:00Z
 
 # How to Display Microsoft Power BI Dashboards & Reports with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360024859713-How-to-Display-Microsoft-Power-BI-Dashboards-Reports-with-OptiSigns
+
 ### In this article, we will show how to display Microsoft Power BI dashboards and reports on TVs and screens using OptiSigns.
 
 - [What You'll Need](#WhatYouNeed)

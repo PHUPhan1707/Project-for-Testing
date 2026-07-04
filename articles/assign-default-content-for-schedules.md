@@ -7,6 +7,8 @@ updated_at: 2026-05-05T19:18:10Z
 
 # Assign Default Content for Schedules
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360040943374-Assign-Default-Content-for-Schedules
+
 If you create a schedule, at times when there's no content scheduled, the display will default to a black screen.  
 For example the schedule below, at 7AM the screen will just display a black screen.  
 Sometime, you would want to set a default content so that when nothing is scheduled the default content will be displayed.

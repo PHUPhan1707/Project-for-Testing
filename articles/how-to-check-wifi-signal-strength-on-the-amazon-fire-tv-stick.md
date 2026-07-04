@@ -7,6 +7,8 @@ updated_at: 2025-09-05T15:00:49Z
 
 # How to Check WiFi Signal Strength on the Amazon Fire TV Stick
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360016380053-How-to-Check-WiFi-Signal-Strength-on-the-Amazon-Fire-TV-Stick
+
 To check Wifi signal strength of Amazon Fire TV Stick.  
 Go to Fire TV Stick's Setting by pressing home on the remote control, then scroll to Settings \> Network. Pick the network and you will see the signal strength in the right column.
 

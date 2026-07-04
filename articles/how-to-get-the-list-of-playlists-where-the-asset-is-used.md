@@ -7,6 +7,8 @@ updated_at: 2025-08-29T19:04:36Z
 
 # How to get the list of playlists where the asset is used
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used
+
 When there are a lot of assets and playlists to manage, especially the assets are included in many playlists and you need to replace the asset, it may be difficult to find all the playlists and get the asset replaced.  Knowing in which playlist the asset is used is very helpful in this situation. And this is possible with OptiSigns.
 
 **To get the list of playlists where the asset is used.**

@@ -7,6 +7,8 @@ updated_at: 2025-08-29T21:31:21Z
 
 # How to use On This Day app
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500009492202-How-to-use-On-This-Day-app
+
 On this day is a small trivia app getting highlights from Wikipedia's database of what happens on this date. Usually it's birthday or some holiday events.
 
  

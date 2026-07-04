@@ -7,6 +7,8 @@ updated_at: 2026-06-15T19:14:07Z
 
 # Connect Google Meet Hardware to OptiSigns Digital Signage
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage
+
 Turn idle Google Meet hardware into digital signage. When a room is between meetings, OptiSigns plays your assigned content — announcements, dashboards, branding, menus — right on the room display, and the device returns to the normal Meet UI the moment a meeting starts.
 
 This guide covers the **two ways to connect Google Meet hardware to OptiSigns**, so you can pick the one that fits how your organization works.

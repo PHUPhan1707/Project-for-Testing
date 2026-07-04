@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:08:40Z
 
 # Display Device Info Onscreen
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/27070013297427-Display-Device-Info-Onscreen
+
 ### In this article, we will guide you through the process for displaying your device's information on screen.
 
 - [Before You Begin](#Begin)

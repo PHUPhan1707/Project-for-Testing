@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:09:56Z
 
 # Present/ share iOS/ Android phone/ tablet to your screen with OptiSigns & AeriCast Add-on
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/14557706459283-Present-share-iOS-Android-phone-tablet-to-your-screen-with-OptiSigns-AeriCast-Add-on
+
 In this article, we will guide you on how to present/ share from iOS/ Android phone/ tablet to your screen.
 
 You can download the AeriCast Presenter app from the app store. 

@@ -7,6 +7,8 @@ updated_at: 2025-09-04T13:48:07Z
 
 # How to set up SAML 2.0 with OptiSigns and OneLogin
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4407386819731-How-to-set-up-SAML-2-0-with-OptiSigns-and-OneLogin
+
 With Pro Plus and Enterprise plan, you can configure SAML 2\.0 with OptiSigns via OneLogin.
 
 OneLogin will be acting as the IDP (Identify Provider), and OptiSigns will be working as the SP(Service Provider).

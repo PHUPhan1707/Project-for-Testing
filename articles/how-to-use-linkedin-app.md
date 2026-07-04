@@ -7,6 +7,8 @@ updated_at: 2025-09-04T18:05:53Z
 
 # How to use LinkedIn App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4406180781203-How-to-use-LinkedIn-App
+
 To use LinkedIn app with any 3rd party app like OptiSigns you will need:
 
 1. Create a Company page if it is not existed. See how to [here](https://business.linkedin.com/marketing-solutions/linkedin-pages).

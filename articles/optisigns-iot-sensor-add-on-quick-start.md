@@ -7,6 +7,8 @@ updated_at: 2025-09-02T18:16:29Z
 
 # OptiSigns IoT Sensor Add-on - Quick Start
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/13097501958291-OptiSigns-IoT-Sensor-Add-on-Quick-Start
+
 ### How to quickly get your IoT sensors up and running on any screens you wish.
 
 In this article:

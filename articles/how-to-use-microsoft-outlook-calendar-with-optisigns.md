@@ -7,6 +7,8 @@ updated_at: 2026-03-25T21:28:19Z
 
 # How to Use Microsoft Outlook Calendar with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360036250853-How-to-Use-Microsoft-Outlook-Calendar-with-OptiSigns
+
 - [What You'll Need](#WhatYouNeed)
 - [Creating a Microsoft Outlook Calendar App](#Creating)
 - [Deploying a Microsoft Outlook Calendar App](#Deploying)

@@ -7,6 +7,8 @@ updated_at: 2026-05-28T20:38:07Z
 
 # How to cancel subscription or pause subscription for Seasonal Use Case
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/17639078588691-How-to-cancel-subscription-or-pause-subscription-for-Seasonal-Use-Case
+
 With OptiSigns, customers paying via credit card have the capability to manage the subscription update in their account. Customers can decrease or increase your subscription as needed. Customers can go to the subscription update page to cancel the subscription or pause the subscription (reducing the number of subscriptions to 0\), this will stop future charges on the account. This will help customers who are using the services seasonally or customers who want to cancel the subscription but would still like to keep the account and contents available as they may restart the subscription in the future. 
 
  

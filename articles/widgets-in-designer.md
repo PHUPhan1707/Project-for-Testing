@@ -7,6 +7,8 @@ updated_at: 2026-06-03T15:53:35Z
 
 # Widgets in Designer
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/42436941395475-Widgets-in-Designer
+
 ### In this article, we’ll cover all the various Widgets you can add to a design via the Designer app.
 
 - [Overlay Image](#OverlayImage)

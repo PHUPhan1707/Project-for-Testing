@@ -7,6 +7,8 @@ updated_at: 2025-09-02T20:25:47Z
 
 # Introduction
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4414552808467-Introduction
+
 The OptiSigns API is organized around GraphQL. GraphQL is a query language for API, it provides a complete and understandable description of the data in API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
 
 ### Why GraphQL

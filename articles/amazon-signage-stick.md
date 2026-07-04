@@ -7,6 +7,8 @@ updated_at: 2025-09-02T18:43:56Z
 
 # Amazon Signage Stick
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/34087061669523-Amazon-Signage-Stick
+
 ### In this article, we’ll walk you through getting OptiSigns set up and working on an Android Signage Stick.
 
 - [Setting Up the Amazon Signage Stick](#Setting)

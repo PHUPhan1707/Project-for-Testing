@@ -7,6 +7,8 @@ updated_at: 2025-08-28T20:13:04Z
 
 # Add 1 or multiple assets to many playlists at the same time
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4404616139411-Add-1-or-multiple-assets-to-many-playlists-at-the-same-time
+
 Sometimes you just create new assets and want to add them to several playlists, you can do it quickly:
 
 Click ... on the asset, then click Add to Playlists

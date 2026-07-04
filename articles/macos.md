@@ -7,6 +7,8 @@ updated_at: 2025-09-02T20:32:57Z
 
 # MacOS
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360041501494-MacOS
+
 ### In this guide, we will walk you through the end\-to\-end process to install OptiSigns Digital Signage App on your macOS. You can easily use your Mac as a test screen. Follow the steps below:
 
 ---

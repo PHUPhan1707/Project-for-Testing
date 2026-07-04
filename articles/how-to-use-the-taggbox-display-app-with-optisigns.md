@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:16:41Z
 
 # How to use the Taggbox Display app with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500009343862-How-to-use-the-Taggbox-Display-app-with-OptiSigns
+
 With the Taggbox Display, you can do these:
 
 - Collect Content From 15\+ Social Platforms, like Twitter, Instagram, Facebook, Linkedin ... etc.

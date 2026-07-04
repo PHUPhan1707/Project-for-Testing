@@ -7,6 +7,8 @@ updated_at: 2025-10-10T18:50:47Z
 
 # How to use the CBC News App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500011611322-How-to-use-the-CBC-News-App
+
 ### In this article, we'll explain how to use the CBC News app on OptiSigns.
 
 - [What You'll Need](#WhatYouNeed)

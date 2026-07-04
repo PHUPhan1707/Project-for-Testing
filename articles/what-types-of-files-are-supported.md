@@ -7,6 +7,8 @@ updated_at: 2025-09-08T14:04:57Z
 
 # What types of files are supported?
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360016342373-What-types-of-files-are-supported
+
 OptiSigns supports a wide range of files for playback. Follow **[this guide](https://support.optisigns.com/hc/en-us/articles/360016247974)** if you need to know how to upload files. All supported files are:
 
 **All common images files:** 

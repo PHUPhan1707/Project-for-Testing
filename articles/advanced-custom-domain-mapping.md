@@ -7,6 +7,8 @@ updated_at: 2026-05-29T17:34:19Z
 
 # Advanced: Custom Domain mapping
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500000480302-Advanced-Custom-Domain-mapping
+
 With OptiSigns Pro Plus and Enterprise plan, you can enhance your branding by mapping your custom domain for OptiSigns Management Portal.
 
  

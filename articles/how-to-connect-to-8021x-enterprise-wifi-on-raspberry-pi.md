@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:24:46Z
 
 # How to Connect to 802.1x Enterprise WiFi on Raspberry Pi
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4411743936147-How-to-Connect-to-802-1x-Enterprise-WiFi-on-Raspberry-Pi
+
 When you are trying to connect to 802\.1x WiFi with WPA enterprise on Raspberry Pi,  you will see the WiFi access point is greyed out on Raspberry Pi, like below. It is because Raspberry Pi is using the simple network service on the GUI, which doesn't support enterprise WiFi.  However, Raspberry Pi is supporting 802\.1x enterprise WiFi. And the simplest way to setup the connection to 802\.1x enterprise WiFi on Raspberry Pi is to use standard Linux network manager to replace the simple network service. In this tutorial, we will walk through how to set it up.  
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/4411750345875)

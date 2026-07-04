@@ -7,6 +7,8 @@ updated_at: 2025-09-02T19:32:41Z
 
 # How to mix playlists and maintain screen time share with OptiSigns Content Rotation App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500001561861-How-to-mix-playlists-and-maintain-screen-time-share-with-OptiSigns-Content-Rotation-App
+
 | **Important Note (7/3\):** We have recently disabled our Content Rotation App, and we highly recommend using our similar[**Sub\-playlist Control feature,**](https://support.optisigns.com/hc/en-us/articles/22474034993043) available in our Pro\-Plus and above plans. |
 | --- |
 

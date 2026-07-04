@@ -7,6 +7,8 @@ updated_at: 2025-11-19T11:39:39Z
 
 # What if the OptiSigns app does not auto-start on an Android TV?
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/11412877112595-What-if-the-OptiSigns-app-does-not-auto-start-on-an-Android-TV
+
 Android TV has different versions of firmware on the Android system. Sometimes, OptiSigns will not auto\-start when the Android TV reboots. There is a default app that will block any app from auto\-starting.
 
  

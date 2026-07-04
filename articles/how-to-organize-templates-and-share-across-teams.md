@@ -7,6 +7,8 @@ updated_at: 2025-08-28T19:56:40Z
 
 # How to organize templates and share across teams
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4428997257491-How-to-organize-templates-and-share-across-teams
+
 When there is a large number of templates and a complex structure of teams/departments, how to manage templates and share them with others could be difficult. For example, there are hundreds of templates of different themes, some should only be available to team A and some should be available to other teams. How that should be managed with OptiSigns?
 
 The recommended approach is to leverage the folder structure and folder permissions to organize the templates and manage the authorization. 

@@ -7,6 +7,8 @@ updated_at: 2025-08-29T19:58:56Z
 
 # How to use Microsoft Excel Online with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4529298306963-How-to-use-Microsoft-Excel-Online-with-OptiSigns
+
 Microsoft Excel is a very popular ways to create and share your spreadsheet. You can also use it on your Digital Signage screen.
 
 There are 2 ways to use Excel with OptiSigns:

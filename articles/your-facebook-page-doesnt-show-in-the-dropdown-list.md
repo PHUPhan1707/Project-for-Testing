@@ -7,6 +7,8 @@ updated_at: 2026-04-30T20:24:48Z
 
 # Your Facebook Page Doesn't Show in The Dropdown List
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/20750060900883-Your-Facebook-Page-Doesn-t-Show-in-The-Dropdown-List
+
 In this article, we will guide you how to solve the issue if your Facebook Page doesn't show in the dropdown list of OptiSigns Facebook page.  
   
 **First, you can go to the Facebook Business Integrations page:**

@@ -7,6 +7,8 @@ updated_at: 2025-08-28T20:12:13Z
 
 # How to use the Atlassian JIRA app
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360037416494-How-to-use-the-Atlassian-JIRA-app
+
 ### Jira is a popular project management tool that helps teams plan, track, release, and support work. Let's go through how to set this app integration up!
 
 **What you'll need:**

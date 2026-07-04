@@ -7,6 +7,8 @@ updated_at: 2025-09-05T14:55:21Z
 
 # How to use Facebook Video App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360049872414-How-to-use-Facebook-Video-App
+
 This article will guide you through how to create and use Facebook Video App.
 
  

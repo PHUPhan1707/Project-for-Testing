@@ -7,6 +7,8 @@ updated_at: 2026-01-12T16:10:54Z
 
 # Samsung Tizen TVs Troubleshooting Guide
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/28424138317971-Samsung-Tizen-TVs-Troubleshooting-Guide
+
 ### **IMPORTANT NOTE:**
 
 While OptiSigns app is available on Samsung Tizen app store, we still recommend using a dedicated player like our [OptiStick Player](https://links.optisigns.com/szzk) for these reasons:

@@ -7,6 +7,8 @@ updated_at: 2026-05-05T17:08:12Z
 
 # How to use the CountDown App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360041638433-How-to-use-the-CountDown-App
+
 ### In this article, we'll explain how to use the CountDown app on OptiSigns.
 
 - [What You'll Need](#WhatYouNeed)

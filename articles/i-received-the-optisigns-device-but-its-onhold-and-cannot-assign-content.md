@@ -7,6 +7,8 @@ updated_at: 2025-08-28T19:48:56Z
 
 # I received the OptiSigns device but it's OnHold and cannot assign content
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/27676133574547-I-received-the-OptiSigns-device-but-it-s-OnHold-and-cannot-assign-content
+
 ## Issue:
 
 You ordered an OptiSigns Android Stick device and:

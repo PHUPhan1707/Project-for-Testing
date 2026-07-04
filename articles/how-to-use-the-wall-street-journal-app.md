@@ -7,6 +7,8 @@ updated_at: 2025-10-10T19:56:12Z
 
 # How to use the Wall Street Journal App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360045120133-How-to-use-the-Wall-Street-Journal-App
+
 ### In this article, we'll explain how to use The Wall Street Journal app on OptiSigns.
 
 - [What You'll Need](#WhatYouNeed)

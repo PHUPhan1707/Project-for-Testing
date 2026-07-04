@@ -7,6 +7,8 @@ updated_at: 2025-09-04T17:02:05Z
 
 # How to create and use Virtual Screen App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360055900513-How-to-create-and-use-Virtual-Screen-App
+
 This article will guide you through how to create and use a Virtual Screen app.
 
 | **NOTE** |

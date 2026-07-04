@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:14:58Z
 
 # How to use Currency Exchange App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360049156234-How-to-use-Currency-Exchange-App
+
 With OptiSigns, you can display up to date currency exchange rate on your digital signs.
 
 Data is updated every 15 min.

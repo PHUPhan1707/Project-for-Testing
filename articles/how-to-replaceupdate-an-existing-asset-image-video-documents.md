@@ -7,6 +7,8 @@ updated_at: 2025-08-29T19:08:59Z
 
 # How to replace/update an existing asset (image, video, documents)
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500009498782-How-to-replace-update-an-existing-asset-image-video-documents
+
 You can replace/change an existing asset (image, video or document) by hovering your mouse over the asset in your library, and click ... then click "Replace asset".
 
  

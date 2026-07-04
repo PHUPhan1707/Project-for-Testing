@@ -7,6 +7,8 @@ updated_at: 2025-08-29T20:47:28Z
 
 # How to Use QR Overlay App in Engage
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/28140190892307-How-to-Use-QR-Overlay-App-in-Engage
+
 With OptiSigns’s QR Overlay, you can create custom QR codes that overlay your content, allowing you to easily share links, videos, contacts, and much more.
 
 As the content displays, the QR will stay on top at the location you place it in.

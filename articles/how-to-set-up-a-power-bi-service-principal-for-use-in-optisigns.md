@@ -7,6 +7,8 @@ updated_at: 2026-03-17T22:32:17Z
 
 # How to Set Up a Power BI Service Principal for Use in OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns
+
 ### In this article, we will walk you through the process of setting up a service principal for Power BI in Microsoft Azure, and connecting it to OptiSigns.
 
 - [Creating an Entra App in Microsoft Azure](#Create)

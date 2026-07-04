@@ -7,6 +7,8 @@ updated_at: 2026-06-18T00:48:15Z
 
 # Whitelist OptiSigns IP addresses & ports
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360047275934-Whitelist-OptiSigns-IP-addresses-ports
+
 If you need to configure the firewall, here is the list of OptiSigns IP addresses and Port to whitelist:
 
 Port: please whitelist HTTPS port 443

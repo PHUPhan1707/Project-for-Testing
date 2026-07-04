@@ -7,6 +7,8 @@ updated_at: 2025-09-02T20:24:12Z
 
 # How to use Toast API data with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-use-Toast-API-data-with-OptiSigns
+
 ### Toast is one of the most common Point\-of\-Sale systems in North America. In this article, we'll explain how to set up API integration between your Toast system and OptiSigns.
 
 - [Step 1: Preparation](#Step1)

@@ -7,6 +7,8 @@ updated_at: 2026-03-30T17:22:38Z
 
 # OptiSigns Pro Player Advanced Features
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/35577511423635-OptiSigns-Pro-Player-Advanced-Features
+
 ### In this article, we go over the Advanced Features of the new Gen 3 OptiSigns Pro Player.
 
 | **IMPORTANT** |

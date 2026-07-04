@@ -7,6 +7,8 @@ updated_at: 2025-09-04T16:58:08Z
 
 # Legacy DataSources
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/42915219118739-Legacy-DataSources
+
 ### In this article, we’ll cover our Legacy DataSources \- key\-value pair formatting with Google Sheets or Microsoft 365 Excel
 
 - [How it Works and When to Use Legacy DataSources](#HowitWorks)

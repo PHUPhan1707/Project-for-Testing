@@ -7,6 +7,8 @@ updated_at: 2026-02-02T15:32:55Z
 
 # How to Use the YouTube Dashboard App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/48626115821459-How-to-Use-the-YouTube-Dashboard-App
+
 ### In this article, we'll show how to display YouTube Dashboard information on your digital signs with OptiSigns.
 
 - [What You'll Need](#WhatYouNeed)

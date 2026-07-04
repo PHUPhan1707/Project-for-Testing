@@ -7,6 +7,8 @@ updated_at: 2025-08-29T18:58:05Z
 
 # Display PowerPoint/Google Slides in whole screen when casting from MacBook Pro
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/17112492659475-Display-PowerPoint-Google-Slides-in-whole-screen-when-casting-from-MacBook-Pro
+
 In this article, we will show you if you try to present your MacBook Pro to AeriCast Add\-on app via OptiSigns app. There is an extra black space on your screen. It is because the MacBook Pro is 16:10 in resolution. Most TV screens are 16:9\.
 
 ![slides_from_mac_1024__1_.png](https://support.optisigns.com/hc/article_attachments/17112058418323)

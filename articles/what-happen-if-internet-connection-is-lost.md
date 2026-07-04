@@ -7,6 +7,8 @@ updated_at: 2026-05-26T18:14:07Z
 
 # What happen if internet connection is lost?
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360016376793-What-happen-if-internet-connection-is-lost
+
 ### **OptiSigns is designed to handle offline playback:**
 
 All downloadable content (pictures, videos, documents) will be downloaded to your device, so losing internet connection will not affect your playback.  

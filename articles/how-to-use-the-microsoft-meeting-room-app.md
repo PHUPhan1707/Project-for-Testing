@@ -7,6 +7,8 @@ updated_at: 2026-03-25T21:28:34Z
 
 # How to Use the Microsoft Meeting Room App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4406214738707-How-to-Use-the-Microsoft-Meeting-Room-App
+
 - [What You'll Need](#WhatYouNeed)
 - [Creating a Microsoft Meeting Room App](#Creating)
 	- [(OPTIONAL) Allow Booking](#AllowBooking)

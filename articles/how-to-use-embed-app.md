@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:10:33Z
 
 # How to use Embed App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360035815114-How-to-use-Embed-App
+
 Embed app is used to display embed codes that you get from the internet for sharing content such as YouTube videos, Google Slides, Calendar, or social media posts.
 
 Here's an example of a shared Google Calendar embed code.

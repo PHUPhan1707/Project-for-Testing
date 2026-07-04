@@ -7,6 +7,8 @@ updated_at: 2026-06-26T20:54:46Z
 
 # How Can I Remove/Delete Uploaded Files or Assets?
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360025661053-How-Can-I-Remove-Delete-Uploaded-Files-or-Assets
+
 1. Hover the mouse on the asset in the **Files/Assets** tab.
 2. Click the vertical **... icon** on the asset/file you'd like to remove.
 3. Click **Delete.**

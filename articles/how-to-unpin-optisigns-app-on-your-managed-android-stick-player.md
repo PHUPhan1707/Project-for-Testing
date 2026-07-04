@@ -7,6 +7,8 @@ updated_at: 2025-08-29T18:52:14Z
 
 # How to "unpin" OptiSigns app on your Managed Android Stick Player
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4404827608467-How-to-unpin-OptiSigns-app-on-your-Managed-Android-Stick-Player
+
 OptiSigns app can be pinned so that it will always stay on top of your Managed Android Stick Player.
 
 This help to prevent devices from being used for something else, or help with improve stability of playback.

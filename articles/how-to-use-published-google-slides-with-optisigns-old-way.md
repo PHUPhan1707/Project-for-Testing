@@ -7,6 +7,8 @@ updated_at: 2025-09-02T18:55:54Z
 
 # How to use published Google Slides with OptiSigns (old way)
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360016375573-How-to-use-published-Google-Slides-with-OptiSigns-old-way
+
 This method still works, but we have implemented [new method to connect to your Google Slides](https://support.optisigns.com/hc/en-us/articles/360050642833).
  
 

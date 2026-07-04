@@ -7,6 +7,8 @@ updated_at: 2025-08-28T20:14:25Z
 
 # There's no sounds output for my Raspberry Pi
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360044614514-There-s-no-sounds-output-for-my-Raspberry-Pi
+
 Make sure you setting audio out to the right output.
 
 **Solution 1:**

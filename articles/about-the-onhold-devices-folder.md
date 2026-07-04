@@ -7,6 +7,8 @@ updated_at: 2025-08-29T20:02:46Z
 
 # About the OnHold Devices Folder
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500003244381-About-the-OnHold-Devices-Folder
+
 ### In this article, we’ll explain the various uses of the OnHold Devices Folder and how it helps with screen management.
 
 - [What Happens when a Screen is Placed in the OnHold Devices Folder](#Placed)

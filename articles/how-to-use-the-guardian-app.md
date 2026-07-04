@@ -7,6 +7,8 @@ updated_at: 2025-10-10T19:42:20Z
 
 # How to use the Guardian App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360044613874-How-to-use-the-Guardian-App
+
 ### In this article, we'll explain how to use the Guardian News app on OptiSigns.
 
 - [What You'll Need](https://support.optisigns.com/hc/en-us/articles/360040991534#WhatYouNeed)

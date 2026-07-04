@@ -7,6 +7,8 @@ updated_at: 2026-05-28T19:30:59Z
 
 # How to Upload & Manage Your Files/ Assets
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360016247974-How-to-Upload-Manage-Your-Files-Assets
+
 ## **Introduction:**
 
 This article will walk you through how to manage your files/ contents.  

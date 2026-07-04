@@ -7,6 +7,8 @@ updated_at: 2025-09-05T14:51:05Z
 
 # How to use OptiSigns Screen Capture app
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/6086986017299-How-to-use-OptiSigns-Screen-Capture-app
+
 With OptiSigns Screen Capture App, you can capture a screenshot on your Windows PC or Mac and send it to the Digital Signs screen.
 
 This is particularly useful if you have secured Dashboards, Enterprise applications running on Windows, Java, etc. that you want to share on your Digital Signage screens.

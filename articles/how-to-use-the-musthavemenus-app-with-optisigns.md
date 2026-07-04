@@ -7,6 +7,8 @@ updated_at: 2025-08-29T20:23:00Z
 
 # How to use the MustHaveMenus  app with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/12454101966355-How-to-use-the-MustHaveMenus-app-with-OptiSigns
+
 | **Important Note (8/21/24\):** MustHaveMenus has updated to a monthly/annual service and customers must now sign up for their Pro plan to have the ability to share links anywhere. You can either utilize our free\-to\-use templates and POS integration, or upgrade your MustHaveMenus account to the necessary plan for this feature to properly work. |
 | --- |
 

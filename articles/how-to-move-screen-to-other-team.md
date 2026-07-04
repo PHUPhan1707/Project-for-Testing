@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:11:08Z
 
 # How to move screen to other team
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500003161182-How-to-move-screen-to-other-team
+
 This article will guide you through how to move the screen to another team.
 
 First, you need to have another team in your account.

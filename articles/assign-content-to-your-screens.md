@@ -7,6 +7,8 @@ updated_at: 2025-08-29T21:09:05Z
 
 # Assign content to your screens
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens
+
 Once you get screens added, you can start assigning, updating the content, or scheduling the content it plays.  
 The steps below are for you to assign a playlist, but you can follow the same process to assign any assets or schedules. You can also schedule your content to go live.
 

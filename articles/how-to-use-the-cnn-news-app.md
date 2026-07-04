@@ -7,6 +7,8 @@ updated_at: 2025-09-30T20:41:34Z
 
 # How to use the CNN News App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360041476213-How-to-use-the-CNN-News-App
+
 ### In this article, we'll explain how to use the CNN News app on OptiSigns.
 
 - [What You'll Need](#WhatYouNeed)

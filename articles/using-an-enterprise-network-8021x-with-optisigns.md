@@ -7,6 +7,8 @@ updated_at: 2026-05-20T18:11:11Z
 
 # Using an Enterprise Network (802.1x) with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/44890229616403-Using-an-Enterprise-Network-802-1x-with-OptiSigns
+
 ### In this article, we'll cover how to get OptiSigns working on an Enterprise\-level security network, either over WiFi or Ethernet.
 
 - [Supported Devices](#SupportedDevices)

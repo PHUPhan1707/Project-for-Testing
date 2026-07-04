@@ -7,6 +7,8 @@ updated_at: 2026-06-05T16:36:27Z
 
 # External Storage on OptiSigns Devices
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/20153471319187-External-Storage-on-OptiSigns-Devices
+
 **NOTE:** In order to use External Storage, you must be a [Pro Plus subscriber or above](https://www.optisigns.com/pricing). This also only applies to ***OptiSigns Devices***, and will not appear on any devices not manufactured by OptiSigns.
 
 If you feel there is not enough storage on your device, you can use the USB drive or micro SD card as extra storage to add additional storage capacity to it.

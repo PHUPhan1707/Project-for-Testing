@@ -7,6 +7,8 @@ updated_at: 2026-05-12T21:04:13Z
 
 # Your Templates
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/42830652820115-Your-Templates
+
 - [Saving and Using Custom Templates](#Templates)
 - [Saving and Using Custom Components](#Components)
 

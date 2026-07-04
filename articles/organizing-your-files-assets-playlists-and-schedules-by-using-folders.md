@@ -7,6 +7,8 @@ updated_at: 2025-09-04T17:06:53Z
 
 # Organizing your files, assets, playlists and schedules by using Folders
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360043670633-Organizing-your-files-assets-playlists-and-schedules-by-using-Folders
+
 You can create folder to organize your files, assets, playlists and schedules.
 
 If you have a lot of content, creating folders will help you organize them. You can also restrict access to them using [**Folder****Security**](https://support.optisigns.com/hc/en-us/articles/360044600474-Advanced-Security-Folder-Level-Security).

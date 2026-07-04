@@ -7,6 +7,8 @@ updated_at: 2025-09-04T18:50:22Z
 
 # How to display SmartSheet report on OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/8399990754195-How-to-display-SmartSheet-report-on-OptiSigns
+
 Smartsheet is a popular SaaS platform for project \& work management.
 
 With OptiSigns, you can easily display your Smartsheet reports, dashboards on the screen.

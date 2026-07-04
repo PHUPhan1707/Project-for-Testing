@@ -7,6 +7,8 @@ updated_at: 2026-06-11T11:49:35Z
 
 # How to Use the OptiSigns Mobile Admin App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/30003143806099-How-to-Use-the-OptiSigns-Mobile-Admin-App
+
 #### The OptiSigns Mobile Admin App offers remote control over your digital signage assets. Whether you're without a laptop, misplaced your remote, or far from your screen, this app provides a streamlined, user\-friendly solution. This guide will help you set up and use the app effectively.
 
 **In this article:**

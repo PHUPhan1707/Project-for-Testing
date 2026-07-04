@@ -7,6 +7,8 @@ updated_at: 2026-06-02T20:21:45Z
 
 # Roku Release Notes & Limitation
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360042143333-Roku-Release-Notes-Limitation
+
 Updated Sep 2023\. After Roku OS 12\.0\.0 updates, Roku is enforcing stricter to power management \& screensaver.
 
 Roku platform has a lot of restrictions. **In short, if you just need to display static menus or simple slideshows, and don't mind spending sometime setting it up, then it's OK.**

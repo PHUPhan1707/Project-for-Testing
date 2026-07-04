@@ -7,6 +7,8 @@ updated_at: 2025-08-29T17:00:38Z
 
 # Amazon Fire Stick and security considerations
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360047232054-Amazon-Fire-Stick-and-security-considerations
+
 This article will address some commons questions around security for Amazon Fire Stick.
 
 ## **Physical Security:**

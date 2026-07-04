@@ -7,6 +7,8 @@ updated_at: 2025-08-29T20:24:46Z
 
 # Adjust the GPU memory on the Raspberry Pi
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500010436341-Adjust-the-GPU-memory-on-the-Raspberry-Pi
+
 Sometimes, videos won't run smoothly on your Raspberry Pi. Adjusting the GPU memory on your Raspberry Pi can help solve this issue.
 
 In this guide, we'll walk you through how to adjust the GPU memory on your Raspberry Pi.

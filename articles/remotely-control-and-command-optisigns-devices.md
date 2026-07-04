@@ -7,6 +7,8 @@ updated_at: 2025-09-24T18:58:23Z
 
 # Remotely Control and Command OptiSigns Devices
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360055486554-Remotely-Control-and-Command-OptiSigns-Devices
+
 ### In this article, we’ll explore all the options for issuing commands remotely to OptiSigns devices.
 
 - [What You’ll Need](#WhatYouNeed)

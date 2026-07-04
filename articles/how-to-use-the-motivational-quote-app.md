@@ -7,6 +7,8 @@ updated_at: 2025-08-29T21:33:29Z
 
 # How to use the Motivational Quote App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360049030453-How-to-use-the-Motivational-Quote-App
+
 This article will show you how to set up and display the Motivational Quote app on your big screens TVs.
 
   

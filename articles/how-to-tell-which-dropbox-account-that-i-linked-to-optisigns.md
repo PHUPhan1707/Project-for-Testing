@@ -7,6 +7,8 @@ updated_at: 2025-08-29T18:51:46Z
 
 # How to tell which Dropbox account that I linked to OptiSigns?
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360019588654-How-to-tell-which-Dropbox-account-that-I-linked-to-OptiSigns
+
 Quickest way is to sign out and sign in again with the right account.  
  ![](https://support.optisigns.com/hc/article_attachments/360029344853)
 

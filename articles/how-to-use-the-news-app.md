@@ -7,6 +7,8 @@ updated_at: 2025-09-30T20:42:39Z
 
 # How to use the News App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360022393473-How-to-use-the-News-App
+
 ### In this article, we'll explain how to use the News app on OptiSigns.
 
 - [What You'll Need](#WhatYouNeed)

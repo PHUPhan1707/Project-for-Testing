@@ -7,6 +7,8 @@ updated_at: 2025-09-04T16:14:45Z
 
 # Set up & add a screen
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen
+
 ## **Introduction:**
 
 This article will walk you through   

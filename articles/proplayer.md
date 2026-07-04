@@ -7,6 +7,8 @@ updated_at: 2026-03-30T17:22:38Z
 
 # ProPlayer
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/32272215514131-ProPlayer
+
 - [What is the OptiSigns Pro Digital Signage Player?](#WhatIs)
 	- [Why you should consider using the OptiSigns Pro Player over the Android Player](#WhyConsider)
 	- [Key Features of the OptiSigns Pro Digital Signage Player](#KeyFeatures)

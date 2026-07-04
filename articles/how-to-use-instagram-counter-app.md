@@ -7,6 +7,8 @@ updated_at: 2025-08-29T20:18:47Z
 
 # How to use Instagram Counter App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360047501233-How-to-use-Instagram-Counter-App
+
 | **NOTE** |
 | --- |
 | In order to use Instagram on OptiSigns, you cannot use any Personal Accounts. They must be Business Accounts. This is a policy of Meta. |

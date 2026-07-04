@@ -7,6 +7,8 @@ updated_at: 2025-09-04T18:40:28Z
 
 # How to use Live TV with Ads App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500006130902-How-to-use-Live-TV-with-Ads-App
+
 | **NOTE** |
 | --- |
 | This feature is available to subscribers with an **Engage plan** or above. |

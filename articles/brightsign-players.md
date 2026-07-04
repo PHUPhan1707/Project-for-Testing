@@ -7,6 +7,8 @@ updated_at: 2026-05-05T15:50:07Z
 
 # BrightSign Players
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/5090125683219-BrightSign-Players
+
 BrightSign is the leader in commercial grade digital signage players, which is known for its reliability. OptiSigns provides full support on BrightSign player, however we do recommend using the HD, XD, and XT product lines for better performance.
 
 It is very easy to setup OptiSigns on BrightSign players. There are 2 ways you can set it up. You can set it up in standalone mode, or you can set it up on BSN.cloud.

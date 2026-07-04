@@ -7,6 +7,8 @@ updated_at: 2026-02-04T16:01:54Z
 
 # Advanced Security: Managing User Roles
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360046356113-Advanced-Security-Managing-User-Roles
+
 ### In this article, we will go over the ability to manage user roles in OptiSigns for improved security.
 
 - [Accessing User Management](#Accessing)

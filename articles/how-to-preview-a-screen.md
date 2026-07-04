@@ -7,6 +7,8 @@ updated_at: 2026-05-17T21:11:45Z
 
 # How to Preview a Screen
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen
+
 You can always preview a screen before committing an assignment.
 
 Visit the [Screen Management](https://app.optisigns.com/app/screenManagement) page, and find the screen you'd like to preview.

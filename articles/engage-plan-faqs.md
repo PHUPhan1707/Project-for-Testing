@@ -7,6 +7,8 @@ updated_at: 2026-06-29T19:25:18Z
 
 # Engage Plan - FAQs
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/23565267463315-Engage-Plan-FAQs
+
 **What is OptiSigns Engage Plan?**
 
 Engage is a new suite of apps and features designed to help you turn screens into two\-way communications. It enables the creation of engaging, impressive, and interactive connections with your customers.

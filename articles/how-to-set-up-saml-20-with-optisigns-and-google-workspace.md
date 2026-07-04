@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:06:32Z
 
 # How to set up SAML 2.0 with OptiSigns and Google Workspace
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4407493404307-How-to-set-up-SAML-2-0-with-OptiSigns-and-Google-Workspace
+
 With Pro Plus and Enterprise plan, you can configure SAML 2\.0 with OptiSigns via Google Workspace. The Google Workspace will be acting as the IDP (Identify Provider), and OptiSigns will be working as the SP(Service Provider).
 
 ### **Set up OptiSigns \& Google Workspace:**

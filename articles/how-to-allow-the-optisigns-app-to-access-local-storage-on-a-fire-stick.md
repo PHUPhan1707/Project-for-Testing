@@ -7,6 +7,8 @@ updated_at: 2025-08-29T20:30:23Z
 
 # How to allow the OptiSigns app to access local storage on a Fire Stick
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500000941981-How-to-allow-the-OptiSigns-app-to-access-local-storage-on-a-Fire-Stick
+
 Sometimes, if you experiencing a black screen with the OptiSigns app, this maybe because you need to allow permission for OptiSigns app to write to local storage of your Amazon Fire Stick. (If OptiSigns cannot write to local storage, it cannot download files, images, videos, etc to play).
 
   

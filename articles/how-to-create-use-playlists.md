@@ -7,6 +7,8 @@ updated_at: 2026-03-31T21:42:16Z
 
 # How to Create & Use Playlists
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists
+
 ### Playlists organize media files like images and videos into a preferred sequence, enhancing accessibility and continuous playback. This article will guide you through the process of creating playlists with OptiSigns.
 
 | Use Case |

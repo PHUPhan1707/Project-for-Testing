@@ -7,6 +7,8 @@ updated_at: 2025-12-31T22:07:40Z
 
 # Apple TV player release notes & limitations
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/6605515731603-Apple-TV-player-release-notes-limitations
+
 Apple TV is a powerful \& reliable device.
 There are a few notes in running Apple TV as digital signage player.
 

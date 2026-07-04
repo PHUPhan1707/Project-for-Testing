@@ -7,6 +7,8 @@ updated_at: 2026-02-11T23:03:49Z
 
 # How to Use the OptiDev App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/47616485609491-How-to-Use-the-OptiDev-App
+
 ### In this article, we will go over setting up an OptiDev app and getting your OptiDev projects onto your digital signs.
 
 - [What You’ll Need](https://support.optisigns.com/hc/en-us/articles/undefined#WhatYouNeed)

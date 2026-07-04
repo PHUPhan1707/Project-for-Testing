@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:34:19Z
 
 # How to Fix The Scaling Issue on OptiSigns Android Device Gen 3
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/28026588373139-How-to-Fix-The-Scaling-Issue-on-OptiSigns-Android-Device-Gen-3
+
 If you encounter any issues with displaying the correct text size or graph size using the OptiSigns Android Stick Gen 3, following these steps should help resolve the problem.
 
  

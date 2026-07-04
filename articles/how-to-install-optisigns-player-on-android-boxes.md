@@ -7,6 +7,8 @@ updated_at: 2025-09-02T19:45:53Z
 
 # How to install OptiSigns Player on Android Boxes
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500008112642-How-to-install-OptiSigns-Player-on-Android-Boxes
+
 There are many cost effective Android Boxes or Sticks on the market, such as Xiaomi boxes, sticks, Onn TV box, Mecool, etc.
 
 In general, we recommend using [OptiSigns Android Player](https://links.optisigns.com/szzk) as it's optimized for OptiSigns app performance and stability.

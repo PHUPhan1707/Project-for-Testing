@@ -7,6 +7,8 @@ updated_at: 2026-05-05T17:07:53Z
 
 # How to Use the CountUp App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360041222994-How-to-Use-the-CountUp-App
+
 ### In this article, we'll explain how to use the CountUp app on OptiSigns.
 
 - [What You'll Need](#WhatYouNeed)

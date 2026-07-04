@@ -7,6 +7,8 @@ updated_at: 2026-06-08T15:18:50Z
 
 # How to get the most out of your Digital Signs
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs
+
 Here is a quick list of ideas and things you can achieve with OptiSigns to get the most out of your digital signs:
 
 - Besides images and videos, you can also upload any [PDF, PowerPoint, and many other file types](https://support.optisigns.com/hc/en-us/articles/360016342373-What-types-of-files-are-supported)

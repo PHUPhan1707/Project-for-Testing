@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:35:37Z
 
 # How to Update Fire TV OS to latest version
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360052361293-How-to-Update-Fire-TV-OS-to-latest-version
+
 Some times your Fire Stick could encounter issues with some apps like weather, social not displaying correctly.
 
 This could caused because Fire TV OS is not up to date.

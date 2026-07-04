@@ -7,6 +7,8 @@ updated_at: 2025-09-02T20:14:28Z
 
 # Advanced: Enforce SSO login for your account
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360061576673-Advanced-Enforce-SSO-login-for-your-account
+
 ### In this article, we'll explain how to enforce SSO logins for your OptiSigns account.
 
 - [Setting Up Basic SSO Enforcement (Microsoft, Facebook, Google)](#BasicSSO)

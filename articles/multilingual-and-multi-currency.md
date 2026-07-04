@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:30:19Z
 
 # Multilingual and multi-currency
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4411762539027-Multilingual-and-multi-currency
+
 #### **Multi\-currency:**
 
 OptiSigns support payment in USD, CAD, GBP, EUR, and AUD  

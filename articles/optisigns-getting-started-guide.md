@@ -7,6 +7,8 @@ updated_at: 2026-03-31T21:41:21Z
 
 # OptiSigns - Getting Started Guide
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide
+
 ### New to OptiSigns or need a refresher? Here's your one\-stop guide to get your screens ready to go!
 
 #### In this article:

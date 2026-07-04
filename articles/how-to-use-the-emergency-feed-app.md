@@ -7,6 +7,8 @@ updated_at: 2025-12-29T21:30:40Z
 
 # How to Use the Emergency Feed App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4409673381011-How-to-Use-the-Emergency-Feed-App
+
 ### In this article, we'll explain how to set up and use the Emergency Feed app for displaying emergency messages on your digital signs.
 
 - [What You'll Need](#WhatYouNeed)

@@ -7,6 +7,8 @@ updated_at: 2025-09-04T16:16:44Z
 
 # Pagination
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4414558369811-Pagination
+
 GraphQL enables you to fetch only the fields you need. This helps keep network responses small and fast. However, GraphQL doesn't automatically guarantee small responses. If the result list contains a lot of elements, it could cause an enormous response. You will need to do pagination in this situation. 
 
 Our GraphQL API implemented cursor\-based pagination. There are 4 parameters used to traverse through the elements.

@@ -7,6 +7,8 @@ updated_at: 2025-08-29T19:33:32Z
 
 # How to use livestream.com app
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4410655948563-How-to-use-livestream-com-app
+
 You can broadcast your live events with livestream.com to your OptiSigns digital signs screens.
 
 With livestream.com you can even create your event ahead of time, then schedule it to play with OptiSigns.

@@ -7,6 +7,8 @@ updated_at: 2025-09-04T14:06:18Z
 
 # How to Install OptiSigns as an APK File on Android Devices
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500011891542-How-to-Install-OptiSigns-as-an-APK-File-on-Android-Devices
+
 - [Enabling Unknown Source Downloads](#ManagingPermissions)
 - [Via External Device](#ExternalDevice)
 	- [Step 1: Download OptiSigns APK and Put on External Storage Drive](#Storage)

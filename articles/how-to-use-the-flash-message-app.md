@@ -7,6 +7,8 @@ updated_at: 2025-12-23T21:35:47Z
 
 # How to Use the Flash Message App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360052827713-How-to-Use-the-Flash-Message-App
+
 ### In this article, we'll explain how to use the Flash Message app to quickly take over your digital signs for announcements, quick messages, and more.
 
 - [What You'll Need](#WhatYouNeed)

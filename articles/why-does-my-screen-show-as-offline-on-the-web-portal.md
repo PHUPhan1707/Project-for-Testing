@@ -7,6 +7,8 @@ updated_at: 2026-05-19T19:33:42Z
 
 # Why Does My Screen Show as "Offline" on the Web Portal?
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360016484473-Why-Does-My-Screen-Show-as-Offline-on-the-Web-Portal
+
 The OptiSigns Digital Signage application updates the web portal with your screen's status every 30 seconds. If it has not heard from the application after 10 minutes, it will be marked as offline.
 
 This is usually caused by:

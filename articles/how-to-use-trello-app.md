@@ -7,6 +7,8 @@ updated_at: 2025-09-05T14:35:39Z
 
 # How to use Trello App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360050244454-How-to-use-Trello-App
+
 To put Trello Board on your Digital Signs.  
 Got to Trello.com on your browser, open the board,  
 Copy the board's URL Link from the address bar.

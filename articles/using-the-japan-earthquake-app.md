@@ -7,6 +7,8 @@ updated_at: 2026-07-02T14:16:18Z
 
 # Using the Japan Earthquake App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App
+
 - [What You'll Need](#WhatYouNeed)
 - [Creating a Japan Earthquake App](#CreateanApp)
 - [Deploying a Japan Earthquake App](#Deploying)

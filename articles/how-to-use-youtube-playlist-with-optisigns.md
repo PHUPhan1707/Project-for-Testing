@@ -7,6 +7,8 @@ updated_at: 2025-08-29T21:12:53Z
 
 # How to use YouTube Playlist with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360059386254-How-to-use-YouTube-Playlist-with-OptiSigns
+
 Putting YouTube playlist on your digital signs screens is easy with OptiSigns.  
 You just need to copy the YouTube Playlist Link and paste in the YouTube Playlist app in OptiSigns.
 

@@ -7,6 +7,8 @@ updated_at: 2025-08-28T20:10:45Z
 
 # How to Use Coordinate-Based Positioning and Sizing of Elements in OptiSigns' Designer
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/20428606424723-How-to-Use-Coordinate-Based-Positioning-and-Sizing-of-Elements-in-OptiSigns-Designer
+
 If you want to craft visually appealing and professional designs, achieving pixel\-perfect layouts and precise element positioning is essential.
 
 In this article, we'll guide you on using coordinates to accurately place and size elements on your canvas.

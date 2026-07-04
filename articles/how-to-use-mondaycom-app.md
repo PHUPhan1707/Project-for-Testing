@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:31:20Z
 
 # How to use Monday.com App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/11032964830227-How-to-use-Monday-com-App
+
 To put Monday.com Board on your Digital Signs.
 
  

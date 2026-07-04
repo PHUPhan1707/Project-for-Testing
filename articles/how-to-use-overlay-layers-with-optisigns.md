@@ -7,6 +7,8 @@ updated_at: 2025-09-02T19:14:28Z
 
 # How to use Overlay layers with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360050602413-How-to-use-Overlay-layers-with-OptiSigns
+
 With OptiSigns SplitScreen, you can overlay items on top of each other.  
 In example below we overlay OptiSigns Logo and a QR Code on top of the screen.  
 As the content play, the logo keep staying on top.  

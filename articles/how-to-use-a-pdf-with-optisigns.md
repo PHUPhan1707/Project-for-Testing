@@ -7,6 +7,8 @@ updated_at: 2025-09-04T18:06:19Z
 
 # How to use a PDF with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360024310813-How-to-use-a-PDF-with-OptiSigns
+
 There are 3 ways you can use a PDF file:
 
 - Assign it directly to a screen as an asset

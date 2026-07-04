@@ -7,6 +7,8 @@ updated_at: 2025-09-05T14:57:13Z
 
 # How to use Twitch App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-use-Twitch-App
+
 Twitch have grown to more than just a game streaming platform, you now can find music channels, talk shows, computer programming class, etc. on this platform.
 
 You can put your favorite Twitch channels on Digital Signs with OptiSigns' Twitch app.  

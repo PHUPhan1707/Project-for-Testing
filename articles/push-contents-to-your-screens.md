@@ -7,6 +7,8 @@ updated_at: 2025-09-04T20:22:58Z
 
 # Push Contents to your Screens
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/18988049363859-Push-Contents-to-your-Screens
+
 When managing multiple screens with OptiSigns, you have two primary methods to push your content to the screens. Below is a detailed guide to help you choose the best method and execute it effectively.
 
 - [Method 1: Edit Screen and Assign Content](#1)

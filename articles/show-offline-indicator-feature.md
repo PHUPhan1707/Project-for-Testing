@@ -7,6 +7,8 @@ updated_at: 2025-08-28T19:46:51Z
 
 # Show Offline Indicator feature
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature
+
 Show Offline Indicator is a feature to show an icon on the screen when there's no network connection, this is useful if your screen has live content that needs an Internet connection all the time.
 
 Note: 

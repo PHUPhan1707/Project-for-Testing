@@ -7,6 +7,8 @@ updated_at: 2025-09-04T20:17:22Z
 
 # How to Create and Use Nested Playlists
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-Create-and-Use-Nested-Playlists
+
 ## Introduction
 
 Sometimes, you need to re\-use a playlist inside another playlist. This feature is called a nested playlist or sub\-playlist.

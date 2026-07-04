@@ -7,6 +7,8 @@ updated_at: 2026-06-28T17:13:26Z
 
 # How to Enable/Disable Auto Update for OptiSigns app on Fire TV
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360055328454-How-to-Enable-Disable-Auto-Update-for-OptiSigns-app-on-Fire-TV
+
 By default Fire TV will automatically update your apps when there's new release.
 
 You can double check or enable/disable this feature by going to **Settings** \> **Applications** \> **Appstore** \> **Automatic Updates**. Then change it to “**On**.” All of your apps will now update themselves.

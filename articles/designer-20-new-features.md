@@ -7,6 +7,8 @@ updated_at: 2026-05-12T14:17:09Z
 
 # Designer 2.0 New Features
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/41432385864595-Designer-2-0-New-Features
+
 ### Now introducing our sleek new Designer 2\.0! We have optimized many of the previous functions to allow for a cleaner, more streamlined user experience. Our user\-friendly design tool just got even friendlier!
 
 - [Design Differences in Designer 2\.0](#design_differences_in_designer_2.0)

@@ -7,6 +7,8 @@ updated_at: 2026-06-10T11:03:57Z
 
 # Setting Up Your Samsung Smart Signage Platform (SSSP - Commercial Grade)
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/11116333259283-Setting-Up-Your-Samsung-Smart-Signage-Platform-SSSP-Commercial-Grade
+
 ### Samsung Smart Signage Platform —SSSP— powered displays are one of the most popular commercial grade TVs. OptiSigns supports Samsung SSP devices natively. Nearly all features are supported, including offline playback and auto update of the OptiSigns app. Getting your SSSP with OptiSigns is an easy process!
 
 | **This article is for installing OptiSigns on Samsung SSP devices only!** |

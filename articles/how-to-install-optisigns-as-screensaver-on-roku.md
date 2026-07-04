@@ -7,6 +7,8 @@ updated_at: 2025-09-04T20:46:23Z
 
 # How to install OptiSigns as Screensaver on Roku
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500002383502-How-to-install-OptiSigns-as-Screensaver-on-Roku
+
 Updated Sep 2023\. After Roku OS 12\.0\.0 updates, Roku is enforcing stricter to power management \& screensaver.
 
 Roku platform has a lot of restrictions. **In short, if you just need to display static menus or simple slideshows, and don't mind spending sometime setting it up, then it's OK.**

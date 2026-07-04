@@ -7,6 +7,8 @@ updated_at: 2025-08-28T20:06:43Z
 
 # How to use the MindMeister App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500005889381-How-to-use-the-MindMeister-App
+
 Mind map is highly visual, engaging way to organize \& communicate your thoughts, create it with MindMeister and share on your Digital Signs.
 
 You can create Mind Meister app with OptiSigns.

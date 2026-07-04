@@ -7,6 +7,8 @@ updated_at: 2025-09-04T16:54:55Z
 
 # How to get Google Review link
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/23629657318547-How-to-get-Google-Review-link
+
 Check\-in app with SMS follow up can help you get more Google reviews and grow your business. Following this to get your Google reviews link. 
 
  

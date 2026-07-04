@@ -7,6 +7,8 @@ updated_at: 2026-06-15T16:04:29Z
 
 # How to use RSS feeds with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360037965133-How-to-use-RSS-feeds-with-OptiSigns
+
 RSS feeds is a popular way for organization to push out information. Whether you have a well\-know RSS feeds like from the [New York Times](https://archive.nytimes.com/www.nytimes.com/services/xml/rss/index.html) or one from your local community or company, you can put the feed on big screens TV with OptiSigns.
 
 Viewer can scan the QR code to be taken to the news article.

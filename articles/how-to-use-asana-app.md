@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:11:27Z
 
 # How to use Asana App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500002233221-How-to-use-Asana-App
+
 To put Asana Board on your Digital Signs.  
 Go to Asana.com on your browser, open the board,  
 Copy the board's URL Link from the address bar.

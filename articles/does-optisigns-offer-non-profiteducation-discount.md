@@ -7,6 +7,8 @@ updated_at: 2026-07-02T17:12:40Z
 
 # Does OptiSigns offer Non-profit/Education discount?
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360016252654-Does-OptiSigns-offer-Non-profit-Education-discount
+
 Yes, we are supportive of those in non\-profit organizations and the education field.
 
 For non\-profit or education organizations, we offer a flat 10% discount on subscriptions. This discount does not apply to hardware.

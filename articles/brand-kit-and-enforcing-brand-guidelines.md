@@ -7,6 +7,8 @@ updated_at: 2025-09-04T17:25:47Z
 
 # Brand Kit and Enforcing Brand Guidelines
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/42313875427859-Brand-Kit-and-Enforcing-Brand-Guidelines
+
 ### In this article, we’ll go over Designer’s Brand Kit options for enforcing brand guidelines across created content.
 
 - [What You’ll Need](#WhatYouNeed)

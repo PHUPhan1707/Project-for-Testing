@@ -7,6 +7,8 @@ updated_at: 2025-08-29T21:50:33Z
 
 # How to use Matterport App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/6091289267475-How-to-use-Matterport-App
+
 Matterport is a very cool way to visualize, show case your facilities.
 
 You can also share it on Digital Signage screens with OptiSigns.

@@ -7,6 +7,8 @@ updated_at: 2026-02-26T18:04:23Z
 
 # Advanced: Proof of Play (or Playback report)
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360058936513-Advanced-Proof-of-Play-or-Playback-report
+
 With OptiSigns you can enable tracking of playback of your contents.
 
 When Proof\-of\-play Report is enabled, the screen will report the starting and ending timestamp of each asset it played.

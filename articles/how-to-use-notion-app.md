@@ -7,6 +7,8 @@ updated_at: 2025-08-29T21:52:07Z
 
 # How to use Notion App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/5119724468371-How-to-use-Notion-App
+
 To put Notion Note on your Digital Signs.  
 Go to Notion.com on your browser, open the note.  
 Click Share and Copy Share to web URL.

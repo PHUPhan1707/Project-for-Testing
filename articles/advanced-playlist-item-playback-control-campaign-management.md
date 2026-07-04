@@ -7,6 +7,8 @@ updated_at: 2025-10-10T15:42:34Z
 
 # Advanced Playlist Item Playback Control & Campaign Management
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/22474034993043-Advanced-Playlist-Item-Playback-Control-Campaign-Management
+
 | **NOTE** |
 | --- |
 | This feature is available to **Pro Plus**subscribers or higher. |

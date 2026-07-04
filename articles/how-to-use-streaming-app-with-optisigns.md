@@ -7,6 +7,8 @@ updated_at: 2025-09-02T18:34:54Z
 
 # How to use Streaming App with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/16364134190355-How-to-use-Streaming-App-with-OptiSigns
+
 Putting a Streaming video on your digital signs screens is easy with OptiSigns.  
   
 

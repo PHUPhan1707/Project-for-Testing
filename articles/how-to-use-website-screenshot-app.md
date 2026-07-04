@@ -7,6 +7,8 @@ updated_at: 2026-06-25T19:46:15Z
 
 # How to use Website Screenshot app
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/10259143299219-How-to-use-Website-Screenshot-app
+
 With OptiSigns Website Screenshot App, you can capture a screenshot on the URL link and send it to the Digital Signs screen.
 
 This is particularly useful if you have public website page running on any browsers that you want to push to your screens, and your screens sometimes can be offline, or you want to avoid the loading time of the website.

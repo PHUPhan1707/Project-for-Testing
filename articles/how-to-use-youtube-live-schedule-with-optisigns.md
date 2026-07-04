@@ -7,6 +7,8 @@ updated_at: 2026-01-22T15:44:40Z
 
 # How to use YouTube Live Schedule with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360060284174-How-to-use-YouTube-Live-Schedule-with-OptiSigns
+
 A real world scenario would be:
 
 A church has scheduled a video to go live on Sunday morning at 9 o'clock through YouTube Live. If the main hall is filled, the church has overflow rooms with televisions, screens for signage, and presentations. You can use the OptiSigns YouTube Live schedule feature to schedule a live session to broadcast in the overflow rooms every Sunday 9AM automatically.   

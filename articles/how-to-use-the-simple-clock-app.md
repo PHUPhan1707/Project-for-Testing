@@ -7,6 +7,8 @@ updated_at: 2026-01-23T15:20:46Z
 
 # How to Use the Simple Clock App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360042950593-How-to-Use-the-Simple-Clock-App
+
 ### The Simple Clock app allows you to display the time on screen, or as part of a Split Screen configuration.
 
 - [What You'll Need](#WhatYouNeed)

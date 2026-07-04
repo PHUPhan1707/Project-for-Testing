@@ -7,6 +7,8 @@ updated_at: 2025-12-29T21:04:58Z
 
 # Custom Branding Settings
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500000485202-Custom-Branding-Settings
+
 ### In this article, we'll explain everything you need to know about Custom Branding in OptiSigns.
 
 - [Branding Section](#Branding)

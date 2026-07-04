@@ -7,6 +7,8 @@ updated_at: 2025-09-02T20:31:50Z
 
 # How to create and use Instagram Wall
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360016388733-How-to-create-and-use-Instagram-Wall
+
 | **NOTE** |
 | --- |
 | In order to use Instagram on OptiSigns, you cannot use any Personal Accounts. They must be Business Accounts. This is a policy of Meta. |

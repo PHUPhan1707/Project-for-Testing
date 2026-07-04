@@ -7,6 +7,8 @@ updated_at: 2025-09-02T19:35:39Z
 
 # How to install OptiSigns as channel/app on Roku
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360039566974-How-to-install-OptiSigns-as-channel-app-on-Roku
+
 | Updated Sep 2023: After Roku OS 12\.0\.0 updates, Roku is more strict with power management and screensaver feature. |
 | --- |
 

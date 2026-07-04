@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:36:00Z
 
 # How to enable SSH for your Raspberry Pi
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500008008981-How-to-enable-SSH-for-your-Raspberry-Pi
+
 By default SSH is disabled on Raspberry Pi (for both if you setting your own or bought the RPi from us).
 
 To Enable SSH:

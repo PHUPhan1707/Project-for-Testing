@@ -7,6 +7,8 @@ updated_at: 2025-09-02T19:02:02Z
 
 # Animation
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/42305104960147-Animation
+
 ### In this article, we’ll go over how to add Animations to any part of your design.
 
 - [How to Add Animations to Design Elements](https://support.optisigns.com/hc/en-us/articles/undefined#AddAnimations)

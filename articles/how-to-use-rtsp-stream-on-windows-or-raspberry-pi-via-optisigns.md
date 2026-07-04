@@ -7,6 +7,8 @@ updated_at: 2025-09-02T19:20:51Z
 
 # How to use RTSP Stream on Windows or Raspberry Pi via OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/8066591235603-How-to-use-RTSP-Stream-on-Windows-or-Raspberry-Pi-via-OptiSigns
+
 #### Nowadays, RTSP Camera Streaming is popular. You can display your RTSP Stream on your Digital Screen via OptiSigns.Support_article_-2.png
 
 This article will guide you through how to create and use the RTSP Stream app on Windows or Raspberry Pi. Note: For this feature, you must run OptiSigns player version 5\.3\.2 or newer on your devices. You can download the latest version of the app at [https://www.optisigns.com/download](http://www.optisigns.com/download)

@@ -7,6 +7,8 @@ updated_at: 2025-09-04T16:54:34Z
 
 # How to Install a Root Certificate and Display an Internal Website on Screens
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/35184720136595-How-to-Install-a-Root-Certificate-and-Display-an-Internal-Website-on-Screens
+
 ### In this article, we will explain how to install a root certificate on your devices to set up an internal website for use with OptiSigns.
 
 - [Installing a Root Certificate on an OptiSigns Gen 3 Pro Player](#ProPlayer)

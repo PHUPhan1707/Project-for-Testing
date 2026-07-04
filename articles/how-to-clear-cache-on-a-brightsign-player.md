@@ -7,6 +7,8 @@ updated_at: 2025-08-28T19:03:16Z
 
 # How to Clear Cache on a BrightSign Player
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/29238381023123-How-to-Clear-Cache-on-a-BrightSign-Player
+
 ### If you're experiencing issues with OptiSigns' applications not performing correctly on your BrightSign player, one of the most common reason is localStorage folder on your SD Card is full.
 
 - BrightSigns does not provide API for apps like OptiSigns to clear or delete the local cache folder.

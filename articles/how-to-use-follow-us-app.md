@@ -7,6 +7,8 @@ updated_at: 2025-08-29T16:55:29Z
 
 # How to use Follow Us App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360049875794-How-to-use-Follow-Us-App
+
 This article will guide you through how to create and use Follow Us Wall app.
 
 This app is useful to encourage viewers to follow you on social media platform, and increase your follower base.

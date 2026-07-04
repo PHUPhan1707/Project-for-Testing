@@ -7,6 +7,8 @@ updated_at: 2026-03-13T16:05:48Z
 
 # How to Use the CAP Alert App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/6604468198291-How-to-Use-the-CAP-Alert-App
+
 ### In this article, we will show you how to set up and test the CAP Alert app in OptiSigns.
 
 - [What You'll Need](#WhatYouNeed)

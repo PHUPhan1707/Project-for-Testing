@@ -7,6 +7,8 @@ updated_at: 2025-10-29T18:57:43Z
 
 # Getting Started with Touch Screen Kiosks
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/31449657955347-Getting-Started-with-Touch-Screen-Kiosks
+
 ### The ability to turn your screens into engaging, interactive touch screen kiosks is one of Optisigns’ most powerful features. Here, we’ll show you the different options available and how to get your kiosks up and running fast.
 
 - [Types of Touch Screen Kiosks](#Types)  

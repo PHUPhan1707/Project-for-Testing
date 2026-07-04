@@ -7,6 +7,8 @@ updated_at: 2025-09-04T18:53:07Z
 
 # GraphQL API Tutorial: Pair and Assign Content to Screen
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4414553099667-GraphQL-API-Tutorial-Pair-and-Assign-Content-to-Screen
+
 In this tutorial, we will walk through how to get a new screen paired and assign content making it ready to use through the API. Generally, it involves 2 steps.  Firstly, you will need to get the screen paired to your account. Then you will need to update the screen to rename it, and assign the content to be played on the screen.
 
 #### **1\. Pair screen**

@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:23:44Z
 
 # How to Use USB HUB Adaptor Connect to Your Fire Stick
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360055080914-How-to-Use-USB-HUB-Adaptor-Connect-to-Your-Fire-Stick
+
 Sometime you have content behind a secured website that requires login, such as your project schedule in Atlassian's JIRA, Trello, dashboard behind PowerBI, Tableau, etc.
 
  

@@ -7,6 +7,8 @@ updated_at: 2026-06-05T14:25:01Z
 
 # Data Residency and OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/9169378546195-Data-Residency-and-OptiSigns
+
 Customers on the Engage or Enterprise Plans can request their data to be stored in a certain country, or region for data residency requirements.
 
  

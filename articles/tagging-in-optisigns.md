@@ -7,6 +7,8 @@ updated_at: 2025-09-09T19:34:07Z
 
 # Tagging in OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/38062664690195-Tagging-in-OptiSigns
+
 ### In this article, we will go over how to best use the tagging feature in OptiSigns to organize your assets and screens.
 
 - [Screen Tagging](#ScreenTagging)

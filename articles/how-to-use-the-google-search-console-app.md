@@ -7,6 +7,8 @@ updated_at: 2026-02-02T17:56:42Z
 
 # How to Use the Google Search Console App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/48656950622227-How-to-Use-the-Google-Search-Console-App
+
 ### In this article, we'll show how to display Google Search Console information on your digital signs with OptiSigns.
 
 - [What You'll Need](#WhatYouNeed)

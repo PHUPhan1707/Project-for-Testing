@@ -7,6 +7,8 @@ updated_at: 2025-09-04T15:27:21Z
 
 # How to use Microsoft Teams Live app with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4411530012307-How-to-use-Microsoft-Teams-Live-app-with-OptiSigns
+
 You can broadcast a Microsoft Teams Live on your digital signs with OptiSigns.
 
 Sign in to [Office 365](https://www.office.com/) using your credentials.

@@ -7,6 +7,8 @@ updated_at: 2026-01-07T16:05:26Z
 
 # What hardware and devices are supported?
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360021855653-What-hardware-and-devices-are-supported
+
 ### You can run OptiSigns on any:
 
 - OptiSigns Devices ([Where to Buy](https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices))

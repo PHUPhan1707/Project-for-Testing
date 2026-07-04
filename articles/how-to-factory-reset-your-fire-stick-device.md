@@ -7,6 +7,8 @@ updated_at: 2026-07-01T13:59:15Z
 
 # How to Factory Reset Your Fire Stick device
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360054298754-How-to-Factory-Reset-Your-Fire-Stick-device
+
 ## 
 
 If your Fire Stick device still doesn't work correctly after clearing the cache in the OptiSigns app, you can perform a **"Factory Reset"** to clear all of the data that's stored on your device.

@@ -7,6 +7,8 @@ updated_at: 2025-12-22T15:34:06Z
 
 # How to use Slack App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4407335862931-How-to-use-Slack-App
+
 To use Slack app with any 3rd party app like OptiSigns you will need:
 
 - Create a Slack workspace. See how to [here](https://slack.com/intl/en-vn/help/articles/206845317-Create-a-Slack-workspace).

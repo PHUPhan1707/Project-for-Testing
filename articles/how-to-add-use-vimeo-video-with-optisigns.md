@@ -7,6 +7,8 @@ updated_at: 2025-09-04T18:00:23Z
 
 # How to add & use Vimeo video with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-add-use-Vimeo-video-with-OptiSigns
+
 We support Vimeo out of the box.
 
 You just need to log on, add Vimeo App:

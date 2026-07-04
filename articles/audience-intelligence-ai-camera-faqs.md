@@ -7,6 +7,8 @@ updated_at: 2026-02-04T16:18:32Z
 
 # Audience Intelligence (AI Camera) FAQs
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360058259834-Audience-Intelligence-AI-Camera-FAQs
+
 ### OptiSigns Audience Intelligence allows you to tailor your digital signs toward a specific demographic and collect and analyze customer demographic data.
 
 - [What is OptiSigns Audience Intelligence?](#Audience%20Intelligence)

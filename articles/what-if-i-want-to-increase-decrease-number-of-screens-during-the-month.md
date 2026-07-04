@@ -7,6 +7,8 @@ updated_at: 2025-08-28T19:48:02Z
 
 # What if I want to increase, decrease number of screens during the month?
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360016219114-What-if-I-want-to-increase-decrease-number-of-screens-during-the-month
+
 Our system will prorate the usage and automatically adjust your next bill with the correct amount.
 
 For example:

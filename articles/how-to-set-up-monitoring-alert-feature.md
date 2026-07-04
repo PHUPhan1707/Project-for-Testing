@@ -7,6 +7,8 @@ updated_at: 2025-09-04T18:20:07Z
 
 # How to set up Monitoring Alert feature
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4403306341523-How-to-set-up-Monitoring-Alert-feature
+
 Monitoring \& Alert is a Pro Plus and Enterprise feature that will allow you to receive notifications when devices are down.
 
 **You will be able to set up:**

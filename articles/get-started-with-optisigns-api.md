@@ -7,6 +7,8 @@ updated_at: 2025-11-06T16:52:11Z
 
 # Get Started with OptiSigns API
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4414563863827-Get-Started-with-OptiSigns-API
+
 The easiest way to get started with the development is to use the provided web\-based GraphQL IDE.  You can access it from here.  
 [https://graphql\-gateway.optisigns.com/graphql](https://graphql-gateway.optisigns.com/graphql) 
 

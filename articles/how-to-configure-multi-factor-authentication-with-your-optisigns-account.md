@@ -7,6 +7,8 @@ updated_at: 2025-09-04T16:20:40Z
 
 # How to Configure Multi-Factor Authentication with your OptiSigns account.
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/18381542133779-How-to-Configure-Multi-Factor-Authentication-with-your-OptiSigns-account
+
 Nowadays, digital security is critical in the world because both businesses and users store sensitive information online. You can set up Multi\-Factor Authentication with your OptiSigns account. This increases your account's security.  
   
 **Important Note:**

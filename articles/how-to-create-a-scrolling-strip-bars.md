@@ -7,6 +7,8 @@ updated_at: 2025-09-02T19:11:51Z
 
 # How to create a scrolling strip / bars
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360026559613-How-to-create-a-scrolling-strip-bars
+
 This article will guide you through how to create Scrolling Strip / Bar, that normally accompany a Split Screen design like below:
 
 ![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360041995973)

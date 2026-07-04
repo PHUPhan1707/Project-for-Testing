@@ -7,6 +7,8 @@ updated_at: 2025-09-04T19:26:34Z
 
 # Linux
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360034379573-Linux
+
 ### In this article, we'll cover how to get OptiSigns running on devices running Linux.
 
 - [Download the OptiSigns AppImage](#Download)

@@ -7,6 +7,8 @@ updated_at: 2026-03-30T17:22:38Z
 
 # Kiosk50
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/46299245284243-Kiosk50
+
 ![](https://support.optisigns.com/hc/article_attachments/46299797296787)### This guide will walk you through setting up the OptiKiosk 50 Digital Signage Display Kiosk and getting started with OptiSigns.
 
 - [What's in the Box](#WhatsintheBox)

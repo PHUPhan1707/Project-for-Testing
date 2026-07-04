@@ -7,6 +7,8 @@ updated_at: 2026-06-26T13:51:49Z
 
 # OptiStick
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/27267311796243-OptiStick
+
 ![f2138ed7-98dc-43d4-920f-56cd6f921365.png](https://support.optisigns.com/hc/article_attachments/28901408804115)
 
 **What is the OptiSigns OptiStick Digital Signage Player?**

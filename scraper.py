@@ -162,7 +162,14 @@ def build_article(raw: dict) -> Article:
         f"updated_at: {raw.get('updated_at', '')}\n"
         "---\n\n"
     )
-    document = f"{frontmatter}# {title}\n\n{body_md}"
+    # The "Article URL:" line is embedded in the body (not just frontmatter) so
+    # the assistant can read and cite it verbatim per the OptiBot system prompt.
+    document = (
+        f"{frontmatter}"
+        f"# {title}\n\n"
+        f"Article URL: {raw.get('html_url', '')}\n\n"
+        f"{body_md}"
+    )
 
     return Article(
         id=article_id,

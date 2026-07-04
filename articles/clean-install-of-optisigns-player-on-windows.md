@@ -7,6 +7,8 @@ updated_at: 2025-10-23T21:18:17Z
 
 # Clean install of OptiSigns Player on Windows
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500005467601-Clean-install-of-OptiSigns-Player-on-Windows
+
 Performing a clean install of OptiSigns on Windows could help to resolve issues you experiencing.
 
 | **NOTE** |

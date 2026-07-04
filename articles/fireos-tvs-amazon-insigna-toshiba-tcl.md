@@ -7,6 +7,8 @@ updated_at: 2025-09-02T20:43:39Z
 
 # FireOS TVs (Amazon, Insigna, Toshiba, TCL)
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500009042742-FireOS-TVs-Amazon-Insigna-Toshiba-TCL
+
 | As of Feb 2024, FireStick and Fire TV are **no longer recommended** as digital signage player. This is due to **[Amazon eliminating the ability to auto start app](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/)** with FireStick \& Fire TVs starting FireOS 8\. |
 | --- |
 

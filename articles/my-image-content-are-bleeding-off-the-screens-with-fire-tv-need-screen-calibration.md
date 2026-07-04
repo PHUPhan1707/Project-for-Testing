@@ -7,6 +7,8 @@ updated_at: 2026-06-30T11:34:58Z
 
 # My image, content are bleeding off the screens with Fire TV (need screen calibration)
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360035538093-My-image-content-are-bleeding-off-the-screens-with-Fire-TV-need-screen-calibration
+
 With Fire TV Stick 4K. You can calibrate the screens to avoid images, content bleeding off the screen.
 
 If you are using Fire TV HD, it's not possible.  

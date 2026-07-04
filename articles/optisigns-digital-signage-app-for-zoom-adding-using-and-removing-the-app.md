@@ -7,6 +7,8 @@ updated_at: 2026-06-11T22:24:43Z
 
 # OptiSigns Digital Signage App for Zoom — Adding, Using, and Removing the App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App
+
 ## About the OptiSigns–Zoom integration
 
 OptiSigns connects to your Zoom account at the account level, using either the OptiSigns app from the Zoom App Marketplace (admin OAuth) or a Server\-to\-Server OAuth app created in your own Zoom account. The integration lets OptiSigns turn idle Zoom Rooms into digital signage: it lists the Zoom Rooms on your account and uses the Digital Signage feature built into Zoom Rooms to display your OptiSigns content between meetings. No software is installed on the room device, and meetings are never affected — content clears the moment a meeting starts.

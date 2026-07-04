@@ -7,6 +7,8 @@ updated_at: 2026-03-30T17:22:38Z
 
 # Where to Buy OptiSigns Devices
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/32129032857875-Where-to-Buy-OptiSigns-Devices
+
 | **OptiStick** | **Pro Player** | **ProMax Player** |
 | --- | --- | --- |
 | **US:**- [Login and Order](https://app.optisigns.com/app/s/order-device) - [OptiSigns Store](https://shop.optisigns.com/products/optisigns-android-stick-player-2) | **US:**- [Amazon.com](https://www.amazon.com/dp/B0DXX7YS7M?maas=maas_adg_AC5AAF2ED77206D312A3371F03F33017_afap_abs&ref_=aa_maas&tag=maas) (recommended) - [Login and Order](https://app.optisigns.com/app/s/order-device/pro-player) - [OptiSigns Store](https://shop.optisigns.com/products/optisigns-digital-signage-player) | **US:**- [Login and Order](https://app.optisigns.com/app/s/order-device/promax-player) - [OptiSigns Store](https://shop.optisigns.com/products/optisigns-promax-signage-player) |

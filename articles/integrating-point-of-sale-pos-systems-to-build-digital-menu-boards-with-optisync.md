@@ -7,6 +7,8 @@ updated_at: 2025-09-04T20:31:25Z
 
 # Integrating Point-of-Sale (POS) Systems to Build Digital Menu Boards with OptiSync
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync
+
 ### OptiSync allows you to create dynamic digital menus through API integration. Your POS systems can interface directly with OptiSigns to automatically update prices, track inventory, and more.
 
 - [How to Integrate POS Systems Through API Requests](#Section%201)  

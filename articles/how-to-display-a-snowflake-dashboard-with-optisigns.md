@@ -7,6 +7,8 @@ updated_at: 2026-07-01T21:59:22Z
 
 # How to Display a Snowflake Dashboard with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/53028011485715-How-to-Display-a-Snowflake-Dashboard-with-OptiSigns
+
 - [What You'll Need](#WhatYouNeed)
 - [Creating a Snowflake App](#CreateanApp)
 - [Deploying a Snowflake App](#Deploying)

@@ -7,6 +7,8 @@ updated_at: 2025-08-29T16:56:37Z
 
 # Install/Update OptiSigns player on RPi via script
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/1500009382101-Install-Update-OptiSigns-player-on-RPi-via-script
+
 You can install/update OptiSigns player on your Raspberry Pi with 1 command line script:
 
 ```

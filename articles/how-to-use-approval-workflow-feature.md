@@ -7,6 +7,8 @@ updated_at: 2025-08-29T18:47:00Z
 
 # How to use Approval Workflow feature
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360063693093-How-to-use-Approval-Workflow-feature
+
 With OptiSigns Pro or Enterprise Plan, you can set up Approval Workflow so that you can have:
 
 1\) Contributors in your organization that can create, upload contents, make changes to Playlists

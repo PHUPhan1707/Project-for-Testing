@@ -7,6 +7,8 @@ updated_at: 2026-02-05T20:23:47Z
 
 # How to Set Up SAML 2.0 with OptiSigns and MS Entra ID (formerly Azure AD)
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4407252213395-How-to-Set-Up-SAML-2-0-with-OptiSigns-and-MS-Entra-ID-formerly-Azure-AD
+
 ### In this article, we will provide a step\-by\-step guide to setting up SAML 2\.0 with Microsoft Entra ID for use with OptiSigns.
 
 - [Set Up OptiSigns Subdomain and SAML SSO Settings](#Subdomain)

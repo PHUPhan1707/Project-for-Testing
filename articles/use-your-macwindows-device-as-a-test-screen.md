@@ -7,6 +7,8 @@ updated_at: 2025-09-04T20:39:46Z
 
 # Use Your Mac/Windows Device as a Test Screen
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360021856013-Use-Your-Mac-Windows-Device-as-a-Test-Screen
+
 ### Are you looking for a quick and easy way to test out OptiSigns during your trial or before pushing to your main screens?
 
 You'll first, want to download our [Windows Player app](https://links.optisigns.com/win) or [MacOS Player app](https://links.optisigns.com/mac) onto your laptop or desktop.

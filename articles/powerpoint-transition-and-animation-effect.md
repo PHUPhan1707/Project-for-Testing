@@ -7,6 +7,8 @@ updated_at: 2025-08-28T19:47:16Z
 
 # PowerPoint Transition and Animation effect
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360034219593-PowerPoint-Transition-and-Animation-effect
+
 By default, uploaded PowerPoint presentation will be played without transition or animation effect.
 
 To use the transition, animation effects you can export your PowerPoint to MP4 video.

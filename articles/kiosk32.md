@@ -7,6 +7,8 @@ updated_at: 2026-04-29T15:27:37Z
 
 # Kiosk32
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/44669013147923-Kiosk32
+
 ![6(1).png](https://support.optisigns.com/hc/article_attachments/44668998108947)### This guide will walk you through setting up the OptiKiosk 32 Digital Signage Kiosk and getting started with OptiSigns.
 
 - [What’s in the Box](#WhatintheBox)

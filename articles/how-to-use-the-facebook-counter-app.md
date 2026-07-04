@@ -7,6 +7,8 @@ updated_at: 2026-02-02T15:31:45Z
 
 # How to use the Facebook Counter App
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360044619014-How-to-use-the-Facebook-Counter-App
+
 - [What You'll Need](#WhatYouNeed)
 - [Setting Up a Facebook Counter App](#SettingUp)
 - [Deploying a Facebook Counter App](#Deploying)

@@ -7,6 +7,8 @@ updated_at: 2025-09-04T14:10:19Z
 
 # How to use Calendar Mix app
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4408052949139-How-to-use-Calendar-Mix-app
+
 This app is similar to [Microsoft Calendar app](https://support.optisigns.com/hc/en-us/articles/360036250853) or [Google Calendar app](https://support.optisigns.com/hc/en-us/articles/360019517953), but it gives you option to mix multiple calendars into 1 app, you can even mix multiple Google Calendar together with multiple Microsoft Calendar.
 
  

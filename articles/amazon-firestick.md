@@ -7,6 +7,8 @@ updated_at: 2026-06-05T22:12:50Z
 
 # Amazon Firestick
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360016174554-Amazon-Firestick
+
 | **PLEASE READ** |
 | --- |
 | With the launch of the Amazon Signage Stick, Amazon has been removing support for digital signage on FireSticks. As such, OptiSigns will be ending its support for Amazon Firesticks in the near future**.** We recommend our OptiStick device, or the Amazon Signage Stick. In addition, in October 2024, [**Amazon eliminated the ability to auto start the app**](https://www.aftvnews.com/amazon-blocks-long-running-fire-tv-capability-breaking-popular-apps-with-no-warning-and-giving-developers-the-runaround/) with FireStick \& Fire TVs starting with FireOS 8\. Amazon have released their own [**digital signage stick**](https://signage.amazon.com/), which supports OptiSigns, and we also have our own [**OptiSigns Android Player**](https://app.optisigns.com/app/s/order-device). |

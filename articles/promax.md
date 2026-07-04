@@ -7,6 +7,8 @@ updated_at: 2026-03-30T17:22:38Z
 
 # ProMax
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/38680194603155-ProMax
+
 ### In this article, we will go over various features of the OptiSigns ProMax Player.
 
 - [What is the OptiSigns ProMax Digital Signage Player](#WhatIs)

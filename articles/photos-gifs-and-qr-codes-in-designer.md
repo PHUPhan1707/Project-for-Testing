@@ -7,6 +7,8 @@ updated_at: 2025-09-26T20:04:17Z
 
 # Photos, GIFs, and QR Codes in Designer
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/42526907045651-Photos-GIFs-and-QR-Codes-in-Designer
+
 ### In this article, we’ll cover how to add and edit Photos, GIFs, and QR Codes in Designer.
 
 - [Photos](#Photos)

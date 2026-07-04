@@ -7,6 +7,8 @@ updated_at: 2025-09-10T15:02:26Z
 
 # Folder Level Permissions
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360044600474-Folder-Level-Permissions
+
 ### In this article, we'll explain Folder Level Permissions in detail and how to grant desired users and Teams proper access.
 
 - [Change Folder Permissions](#Permissions)

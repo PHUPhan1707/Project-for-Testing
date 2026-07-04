@@ -7,6 +7,8 @@ updated_at: 2025-09-04T14:36:56Z
 
 # Samsung Smart Signage Platform (SSSP) Supported Model List
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/17882306279315-Samsung-Smart-Signage-Platform-SSSP-Supported-Model-List
+
 Samsung Smart Signage Platform (SSSP) is built into most Samsung professional displays.
 
 The article will show you the list of Samsung Smart Signage Platform (SSSP) models. If your Samsung Smart TV is the Samsung Smart Signage Platform (SSSP) model, you can follow this [article](https://support.optisigns.com/hc/en-us/articles/11116333259283) to set it up.  

@@ -7,6 +7,8 @@ updated_at: 2025-09-04T14:01:30Z
 
 # How to Create an Attract Screen for Your Kiosk
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/29232460955539-How-to-Create-an-Attract-Screen-for-Your-Kiosk
+
 #### Are you looking to bring your interactive kiosk to life and engage passersby with your product? Or, do you have promotional content that you'd like to showcase while the kiosk is idle? Let’s create an appealing visual display to enhance engagement and capture the attention of your audience.
 
 | The Engage plan is needed to access our Kiosk features and to push them to multiple screens. |

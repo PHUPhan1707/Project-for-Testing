@@ -7,6 +7,8 @@ updated_at: 2026-06-10T19:08:01Z
 
 # Synchronized playback (Sync Play) feature
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/4412065189267-Synchronized-playback-Sync-Play-feature
+
 With OptiSigns you can enable screens to play in\-sync. This means:
 
 - If content published screens are **the same**, all screens will play the content at the same time.

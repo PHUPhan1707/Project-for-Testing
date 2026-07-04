@@ -7,6 +7,8 @@ updated_at: 2025-09-02T20:10:19Z
 
 # Roku Troubleshooting guide
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/28421615261971-Roku-Troubleshooting-guide
+
 ### **IMPORTANT NOTE:**
 
 Updated Sep 2023\. After version 12\.0\.0 updates, Roku is enforcing stricter to power management \& screensaver.

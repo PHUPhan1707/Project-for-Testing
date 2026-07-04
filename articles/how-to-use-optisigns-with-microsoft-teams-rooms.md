@@ -7,6 +7,8 @@ updated_at: 2025-09-04T18:42:32Z
 
 # How to Use OptiSigns with Microsoft Teams Rooms
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms
+
 ### In this article, we will explain how to set up OptiSigns for use with Microsoft Teams Rooms’ new Digital Signage option.
 
 - [Prerequisites](#Prerequisites)

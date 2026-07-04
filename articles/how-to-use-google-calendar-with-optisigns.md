@@ -7,6 +7,8 @@ updated_at: 2025-11-21T01:13:20Z
 
 # How to use Google Calendar with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360019517953-How-to-use-Google-Calendar-with-OptiSigns
+
 ### In this article, we will show you how to display a Google Calendar with OptiSigns.
 
 - [What You'll Need](#WhatYouNeed)

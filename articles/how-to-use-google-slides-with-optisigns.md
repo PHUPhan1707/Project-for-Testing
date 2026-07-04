@@ -7,6 +7,8 @@ updated_at: 2026-01-31T15:45:41Z
 
 # How to Use Google Slides with OptiSigns
 
+Article URL: https://support.optisigns.com/hc/en-us/articles/360050642833-How-to-Use-Google-Slides-with-OptiSigns
+
 ### In this article, we'll show how to use Google Slides with OptiSigns.
 
 - [What You'll Need](#WhatYouNeed)
