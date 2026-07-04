@@ -4,6 +4,3 @@ beautifulsoup4==4.12.3
 google-genai==2.10.0
 tiktoken==0.8.0
 python-dotenv==1.0.1
-
-# Optional — only needed for the OpenAI variant (create_assistant.py etc.)
-openai==2.16.0

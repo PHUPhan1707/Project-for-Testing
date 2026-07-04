@@ -7,8 +7,7 @@ A small pipeline that clones OptiSigns' support bot, "OptiBot":
    clean Markdown.
 2. **Step 2 — Build the assistant & load the vector store:** upload those docs
    to a **Gemini File Search store** via the API and wire them to the OptiBot
-   assistant that answers questions with citations. (An OpenAI variant is also
-   included.)
+   assistant that answers questions with citations.
 
 ## Setup
 
@@ -104,7 +103,7 @@ This project uses **Google Gemini** and its **File Search** tool — Gemini's
 managed RAG / "vector store" equivalent. File Search chunks, embeds, and indexes
 each document so **OptiBot** can ground its answers on the OptiSigns support
 docs. Gemini was chosen because it has a genuine **free tier** (no prepaid
-balance required); an OpenAI variant is also included (see the end of this doc).
+balance required).
 
 > Gemini File Search pricing: storage and query-time embeddings are free; only
 > first-time indexing is billed on paid tiers, and it stays within the free
@@ -198,41 +197,28 @@ We use Gemini's **white-space** chunking with:
 
 | Parameter | Value | Why |
 |-----------|-------|-----|
-| `max_tokens_per_chunk` | **512** | Gemini's hard limit for File Search chunking (OpenAI allows up to 4096). |
+| `max_tokens_per_chunk` | **512** | Gemini's hard limit for File Search chunking. |
 | `max_overlap_tokens` | **100** | ~20% overlap so step lists aren't cut mid-instruction. |
 
 Support articles are short and highly structured (headings + numbered steps), so
 a 512-token window with modest overlap indexes each article in a few chunks.
 The 404 docs (~570K tokens) produce **~1,500 chunks** (estimated).
 
-**On the reported chunk count:** neither Gemini nor OpenAI returns an exact
-server-side chunk total, so the upload scripts compute it locally with
-`tiktoken` using the **same** chunking parameters we send to the API — a close,
-deterministic estimate rather than a server-reported number.
+**On the reported chunk count:** Gemini doesn't return an exact server-side
+chunk total, so the upload scripts compute it locally with `tiktoken` using the
+**same** chunking parameters we send to the API — a close, deterministic
+estimate rather than a server-reported number.
 
 ## Files
 
 | File | Purpose |
 |------|---------|
 | `scraper.py` | Step 1 — scrape support site to Markdown |
-| `gemini_upload_to_store.py` | **Step 2 — upload docs to the Gemini File Search store (API)** |
-| `gemini_ask_optibot.py` | **Step 2 — sanity-check query against OptiBot (Gemini)** |
-| `gemini_store.json` | Saved File Search store name + counts |
+| `gemini_auth.py` | Resolve the Gemini API key (.env / env / prompt) |
+| `gemini_upload_to_store.py` | Step 2 — bulk-upload docs to the Gemini File Search store (API) |
+| `upload_article.py` | Step 2 — upload a single article by slug |
+| `gemini_ask_optibot.py` | Step 2 — sanity-check query against OptiBot (Gemini) |
 | `requirements.txt` | Pinned dependencies |
-
-## Alternative: OpenAI variant
-
-Equivalent scripts using an OpenAI Vector Store are also included (they need a
-paid `OPENAI_API_KEY`):
-
-| File | Purpose |
-|------|---------|
-| `upload_to_vector_store.py` | Upload docs to an OpenAI Vector Store |
-| `create_assistant.py` | Create the OptiBot assistant (Assistants API) |
-| `ask_optibot.py` | Sanity-check query against the OpenAI assistant |
-
-Run: `python upload_to_vector_store.py` → `python create_assistant.py` →
-`python ask_optibot.py`.
 
 ---
 
