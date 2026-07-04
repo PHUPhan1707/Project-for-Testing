@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.git/
+.github/
+articles/
+screenshots/
+*.md
+!README.md
+last_run.json
+gemini_store.json
+vector_store.json
