@@ -96,7 +96,6 @@ End-to-end walkthrough (scrape → upload → ask OptiBot → daily delta job):
 | `scraper.py` | Scrape support site → Markdown |
 | `gemini_auth.py` | Resolve Gemini API key (.env / env / prompt) |
 | `gemini_upload_to_store.py` | Bulk-upload docs to Gemini File Search (API) |
-| `upload_article.py` | Upload a single article by slug |
 | `gemini_ask_optibot.py` | Query OptiBot (sanity check) |
 | `main.py` | Daily scrape + delta-upload job |
 | `Dockerfile` / `.github/workflows/daily-sync.yml` | Container + daily schedule |
