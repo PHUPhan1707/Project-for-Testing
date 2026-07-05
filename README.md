@@ -76,7 +76,7 @@ Scheduled via **GitHub Actions** (`.github/workflows/daily-sync.yml`) at 06:00 U
 daily + manual dispatch. Set repo secret `GEMINI_API_KEY` (**Settings → Secrets and
 variables → Actions**). `last_run.json` is uploaded as an artifact each run.
 
-- **Job logs:** <!-- TODO: paste your Actions run URL, e.g. https://github.com/<user>/<repo>/actions/runs/<id> -->
+- **Job logs:** https://github.com/PHUPhan1707/Project-for-Testing/actions/runs/28729235860
 
 ## Screenshot
 
