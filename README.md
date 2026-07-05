@@ -79,8 +79,15 @@ variables → Actions**). `last_run.json` is uploaded as an artifact each run.
 - **Job logs:** https://github.com/PHUPhan1707/Project-for-Testing/actions/runs/28729235860
 
 ## Screenshot
+Screenshot of assistant answering a sample question:
 
 ![OptiBot answering with citations](screenshots/youtube-answer.png)
+
+## Demo video
+
+End-to-end walkthrough (scrape → upload → ask OptiBot → daily delta job):
+
+[▶ Watch demo video](screenshots/VideoDemoProject.mp4)
 
 ## Files
 
@@ -93,3 +100,6 @@ variables → Actions**). `last_run.json` is uploaded as an artifact each run.
 | `gemini_ask_optibot.py` | Query OptiBot (sanity check) |
 | `main.py` | Daily scrape + delta-upload job |
 | `Dockerfile` / `.github/workflows/daily-sync.yml` | Container + daily schedule |
+
+
+
