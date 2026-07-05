@@ -5,8 +5,13 @@ name: Daily support-docs sync
 # (last_run.json) is uploaded as an artifact on every run.
 on:
   schedule:
-    - cron: "0 6 * * *"   # 06:00 UTC daily
-  workflow_dispatch: {}
+    - cron: "0 6 * * *"   # 06:00 UTC daily (full run)
+  workflow_dispatch:
+    inputs:
+      max_articles:
+        description: "Limit number of articles (leave empty for all). Use a small number for a fast demo run."
+        required: false
+        default: ""
 
 jobs:
   sync:
@@ -27,6 +32,7 @@ jobs:
       - name: Run daily delta sync
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MAX_ARTICLES: ${{ github.event.inputs.max_articles }}
         run: python main.py
 
       - name: Upload run summary artifact
